@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of the Christians Messiah that Jesus Christ the Sonne of God is the true Messiah prophesied of, foretold by all the holy men of God who were the writers of the Old Testament, from Genesis unto the Prophet Mallachy : as also proved out of their own beloved Talmouth : wherein is also declared the coherence which the Old Testament hath with the New as to that particular : as also a clear proof of the Trinity in unity ... against the generall received opinion of the Jewes / written by Eliazar Bar-Isajah P.</title>
+            <author>Eliazar Bar-Isajah.</author>
+         </titleStmt>
+         <extent>Approx. 112KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69984</idno><idno type="EEBO-CITATION">8703630_41584</idno>
+  <idno type="VID">41584</idno>
+  <idno type="EEBO-PROQUEST">2264207010</idno>
+  
+            <idno type="STC">Wing E333</idno>
+            <idno type="STC">ESTC R5333</idno>
+            <idno type="OCLC">08703630</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A69984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41584)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 833:17, 1258:29 or 1538:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of the Christians Messiah that Jesus Christ the Sonne of God is the true Messiah prophesied of, foretold by all the holy men of God who were the writers of the Old Testament, from Genesis unto the Prophet Mallachy : as also proved out of their own beloved Talmouth : wherein is also declared the coherence which the Old Testament hath with the New as to that particular : as also a clear proof of the Trinity in unity ... against the generall received opinion of the Jewes / written by Eliazar Bar-Isajah P.</title>
+                  <author>Eliazar Bar-Isajah.</author>
+               </titleStmt>
+               <extent>[14], 66 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Gartrude Dawson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This work appears as Wing B765 (number cancelled) at reel 833:17, as Wing E333 at reel 1258:29 and is incorrectly identified as Wing V500A at reel 1538:17.</note>
+                  <note>Reproduction of originals in the Union Theological Seminary Library, New York, and the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jesus Christ --  Messiahship.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41584:1"/>
+            <pb facs="tcp:41584:1"/>
+            <p>A VINDICATION OF THE Christians Messiah, <hi>(Viz.)</hi> That Jesus Christ the Sonne of God is the true MESSIAH prophesied of, or foretold by all the holy men of God who were the Writers of the old Testament, from Genesis unto the Prophet Mallachy.</p>
+            <p>As also proved out of their own beloved TALMOUTH.</p>
+            <p>Wherein is also declared, the Coherence which the Old Testament hath with the New, as to that particular.</p>
+            <p>As also a clear proof of the Trinity in Unity, <hi>(Viz.)</hi> That the Father, Sonne, and Spirit, are but one God.</p>
+            <p>Against the generall received opinion of the Jewes.</p>
+            <p>Written by ELIAZAR BAR-ISAJAH P. a Jew born, but now a Converted and Baptized Christian.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Gartrude Dawson,</hi> 1653.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:41584:2"/>
+            <pb facs="tcp:41584:2"/>
+            <head>To the Supream Authority, the PARLIAMENT of the Common Wealth of ENGLAND. As also the Right Honourable the Lord Mayor and Aldermen of the famous City of LONDON.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N as much as divine Pro<g ref="char:EOLhyphen"/>vidence hath brought me out of the darknesse of my Predecessors, into his most marvellous light, by taking away the vaile of their Ceremonies (so) from before the Eyes of my Understanding, as that now I see Jesus Christ to be my alone Saviour; which was onely Typpified or Shadow<g ref="char:EOLhyphen"/>ed out in them by Hyroglyffickes: And in as much as the aforesaid Providence
+<pb facs="tcp:41584:3"/> hath likwise brought me with <hi>Abraham</hi> from my Fathers House and Idoles into a Land I did not know, wherein I am now a Stranger, wherein blessed be his Name, he hath instructed me by his di<g ref="char:EOLhyphen"/>vine Precepts, to walk in those wayes that are most consonant to his divine Will. As also, in as much as the Lord hath gi<g ref="char:EOLhyphen"/>ven you a heart to promote the same a Priviledge, which this nation did never before enjoy, as at present. I have there<g ref="char:EOLhyphen"/>fore thought it my duty, to acknowledge my thankfulnesse unto you, as the cheif<g ref="char:EOLhyphen"/>est Instruments under God, both for the enjoyment of my profession in religious Worship, as also, for those many noble and gracious favours received from you: and for which, I hope the Lord will one day reward you, by giving you farre more glorious degrees of honour then now you enjoy, even in heavenly places with Jesus Christ.</p>
+            <p>And, in token hereof, I have presumed to dedicate this little paines, which I have taken, to depresse the pride and arrogancy of the people who call themselves Jewes,
+<pb facs="tcp:41584:3"/> but indeed are not, for he is not a Jew that is one outwardly, but he that is one inwardly; neither is that Circumcision, which is in the Flesh, but that of the Spi<g ref="char:EOLhyphen"/>rit. Neither are they the seed of <hi>Abraham,</hi> who claime it by the Flesh, but such as attaine thereto by Faith. For, untill they be Christs, they cannot be <hi>Abrahams</hi> seed, and heires according to the Promise.</p>
+            <p>I presume your Honours will not expect curious phrase from him that as yet hath but in a small measure attained to the <hi>English</hi> tongue, as also that you will bear with the rudnesse of the Methode, in as much as I am not yet acquainted with the manner of writing <hi>English</hi> Books, being constrained to make use of an In<g ref="char:EOLhyphen"/>terpreter.</p>
+            <p>I hope also, your Honours will not im<g ref="char:EOLhyphen"/>pute the course Language therein to the People aforesaid, out of any malice, to their persons, but meerly out of the zeal I have to drive them from their fond imaginati<g ref="char:EOLhyphen"/>ons, to imbrace the Truth as it is in Jesus. For, I do ingeniously profess, in the presence of the great God of Heaven and Earth,
+<pb facs="tcp:41584:4"/> and in the presence of his dearly beloved Sonne Jesus Christ, as also of that bles<g ref="char:EOLhyphen"/>sed Spirit of Truth proceeding from the same, the onely comforter of the Elect: that my very bowels do yearn after them, untill Christ be formed in them. Neither have I in the least abused my writing, wherein I have set forth their yet invete<g ref="char:EOLhyphen"/>rate malice against the Professors of the Gospel of Jesus Christ, but have dealt as candidly therein as I would have done for my dearest friend: It being the de<g ref="char:EOLhyphen"/>sire of my soul, that the Eternal, Immor<g ref="char:EOLhyphen"/>tal, Invisible and onely wise God, would in his good time bring them also from Darknesse to his most marvelous Light, and from the power of Sathan unto God, as blessed be his name he hath done to</p>
+            <closer>
+               <signed>
+                  <hi>Your Honours most humble Servant,</hi> Eliazar Bar-isajah .P.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:41584:4"/>
+            <head>THE EPISTLE to the READER.</head>
+            <opener>
+               <salute>Christian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Eloved in our Lord and Savi<g ref="char:EOLhyphen"/>our Iesus Christ, I have thought it fit, and meet to give you to understand, first, what I have been, as also by the grace of God what I now am, in reference to the first of these.</p>
+            <p>I was by birth such a one as men commonly call a Iew, and was likewise Circumcised upon the eighth day, as the manner of such people yet is. I shall not boast of my Parents in the flesh, because, I now know none after the flesh, though otherwise I might in point of worldly riches and honour: but some will look upon me as a Traveller, and there<g ref="char:EOLhyphen"/>fore I shall forbeare, and proceed to my intended purpose. <hi>(Viz.)</hi> That I was also brought up from my youth, and instructed in all their abominable
+<pb facs="tcp:41584:5"/> vices, as blasphemie, cursing, and other sinnes of that linage or off-spring, (I mean in point of Christianity) it being their manner to villifie Iesus Christ and his disciples, with all the opprobri<g ref="char:EOLhyphen"/>ous language that their hearts can conceive, or tongues expresse; as in the ensuing Treatise will fully appear. But I blesse the God and Father of our Lord Iesus Christ, who sowed such a seed of Grace in my heart, as that I may safely witnesse before the God of Truth, that I had no pleasure in such their evill customes. Which seed of Grace I perceived to grow and ripen in me every day more and more. In-so-much that my Mother and Friends taking notice of this my inclination, took counsel to prevent the same, and to that purpose, they determined to send me to my Brother in <hi>Prague,</hi> (the Metropolis of the Realme of <hi>Bo<g ref="char:EOLhyphen"/>hemia</hi>) who is yet, if living, one of the learned<g ref="char:EOLhyphen"/>est Rabies there; which also they did: In whose discipline I was tutored two yeares and a half. Du<g ref="char:EOLhyphen"/>ring which time, I learned the fabling <hi>Talmouth.</hi> And the aforesaid Brother of mine in the flesh, (having received secret instructions, as I perceived, from my aforesaid Mother and Friends) did so narrowly look to my steps, that I could not possibly increase that small measure of Grace which was
+<pb facs="tcp:41584:5"/> formerly in me in any publick manner, albeit pri<g ref="char:EOLhyphen"/>vately I desired God to lead me in the truth, who, blessed be his Name, did not onely hear me, but did also answer the Prayer of me his poor Servant, by delivering me from the vile estate and condition that I was in, and that by a wonderful and unexpe<g ref="char:EOLhyphen"/>cted way and manner, which I shall now declare and publish unto you; for at the expiation of the afore<g ref="char:EOLhyphen"/>said time, Providence hath so ordered, that it came to pass in <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is in <hi>Anno Dom. 1648.</hi> there arrived a <hi>Rabie,</hi> by name <hi>Elias,</hi> from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (that is <hi>Jerusalem</hi>) into Dutch<g ref="char:EOLhyphen"/>land or <hi>Holland,</hi> who, whensoever he came into the Iewish Synagogues, preached or declared, that their <hi>Messias</hi> should come in or during that pre<g ref="char:EOLhyphen"/>sent year; which assertion he endeavoured to prove from <hi>Levit. 3.10.</hi> where it standeth in Hebrew, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>(viz.)</hi> that <hi>Aaron</hi> shall come again with an Offering into the Holy place, which he expounded to be meant of their <hi>Messias;</hi> and that he should come indeed that year, for that his Number being compared with the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which without the first one thousand years from the Creation of the World, as they reckon that word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, having in it in num<g ref="char:EOLhyphen"/>ber <hi>408.</hi> did therefore conclude that he, (<hi>viz:</hi>
+               <pb facs="tcp:41584:6"/> their <hi>Messiah</hi>) should come that year, yea, and that assuredly and undoubtedly: But notwithstan<g ref="char:EOLhyphen"/>ding all this his confident assurance, he proved no better than a false Prophet: for the <hi>Messiah,</hi> whom they expected, did come that year no more than he ever will, which is not at all; <hi>viz:</hi> such a <hi>Messiah</hi> whom they expect, shall call them together as a Huntsman doth his Hounds, and so to lead them to <hi>Jerusalem,</hi> and there to build the same again with the Temple, and that in a more glorious manner than ever it yet enjoyed: But so it was, that this learned <hi>Rabie</hi>'s unlearned Sermon, took so much in the hearts of the aforesaid deluded people, who had rather than Roast-meat see their Demy<g ref="char:EOLhyphen"/>god come to carry them as aforesaid, as that they gave him much moneys, the women likewise present<g ref="char:EOLhyphen"/>ed him with many good gifts both of Gold and Sil<g ref="char:EOLhyphen"/>ver unknown to their husbands, and all to the end they might find the more favour and respect in the sight of their <hi>Messiah</hi> when he should come; as also of his Servant or fore-runner <hi>Elias</hi> as afore<g ref="char:EOLhyphen"/>said; and therefore they cryed out the more exceed<g ref="char:EOLhyphen"/>ingly that he would hasten his coming: But it was all in vain, for they proved no better than the Worshippers of <hi>Baal,</hi> for that their <hi>Messiah,</hi> whom they so expected, was either asleep, or had
+<pb facs="tcp:41584:6"/> some other weighty business; so that all their Pray<g ref="char:EOLhyphen"/>ers, Tears, and Howlings could not prevail with him, to answer that their expectation of those Ido<g ref="char:EOLhyphen"/>latrous people.</p>
+            <p>But so it happened, that hereupon the learned <hi>Jewes</hi> of <hi>Moravia,</hi> living upon the Frontier of the Realm of <hi>Hungaria,</hi> who belonged to the <hi>Germane</hi> Emperor, summoned a meeting to con<g ref="char:EOLhyphen"/>sult about the aforesaid matter of their <hi>Messiah</hi>'s not coming, as was expected; and finding no foun<g ref="char:EOLhyphen"/>dation in the Scripture to own any such foppery, they did joyntly and unanimously relinquish that their groundless assertion, and not onely so, but did with the like unanimity confess and acknowledge, that Iesus Christ, whom the Christians worshipped, was the true <hi>Messiah,</hi> and that none other was to be waited upon or expected, until his second coming to judge the quick and the dead: And thereupon they were sprinkled according to the custome of the Papists, unto whose Religion they betook them<g ref="char:EOLhyphen"/>selves; which when I understood, I made the like attempt my self, but inasmuch as I was so narrowly watched as aforesaid, I therefore resolved to travel into such a place where I might perform the same with more freedom.</p>
+            <p>And hereupon I took a resolution by the help of
+<pb facs="tcp:41584:7"/> God, to take a Voyage to this blessed and prosperous Country of <hi>England;</hi> but so it happened, that in my aforesaid journey or travel, I happened to come to <hi>Brissil</hi> in <hi>Brabant,</hi> to visit Prince <hi>Ratze<g ref="char:EOLhyphen"/>ville,</hi> who was a <hi>Polander,</hi> and a man of great renown in those parts; but being informed that he was departed from thence towards the Army of the Duke <hi>Leopoldus,</hi> which was in <hi>Flanders,</hi> I thereupon resolved to go for <hi>Antwerp,</hi> where I was no sooner arrived, but I fell sick of a Feaver; during which my residing there, one of the <hi>Palers,</hi> as they there call a <hi>Jesuite,</hi> hearing that I was a <hi>Jew,</hi> and newly come to that Town, with another young man my Fellow-Traveler, who was also a <hi>Jew,</hi> he comes to our lodging to instruct us in the Christian Faith or Religion, perswading us ex<g ref="char:EOLhyphen"/>ceeding much to be Baptized, promising that he would afterward instruct us throughly in the same; but we purposed not to have tarryed there in hope of his instructions in their belief, our resolutions be<g ref="char:EOLhyphen"/>ing for <hi>England;</hi> But it pleased God so to increase my sickness, as that we were forced to abide there; which the aforesaid <hi>Jesuite</hi> perceiving, would never leave perswading us, until he had overcome us to be sprinkled, which they call Baptism, which in<g ref="char:EOLhyphen"/>deed
+<pb facs="tcp:41584:7"/> suited then with our present condition, we be<g ref="char:EOLhyphen"/>ing but Infants in the knowledge of Christ, and not in the least acquainted with such strong men in Christ Iesus, as we have since, by the good hand of Gods Providence, light upon, since we came thence to <hi>England;</hi> since which I have utterly disclaimed that aforesaid sprinkling, which they call Baptism, being now fully satisfied from the Scriptures, that my Saviour Iesus Christ was not Baptized in such a manner, but by going down into the water, and so being there washed by dipping, (which the Ori<g ref="char:EOLhyphen"/>ginal word imports) he is said to come up out of the said water, where he was so Baptized: As also in the example of the <hi>Eunuch,</hi> where it is also ex<g ref="char:EOLhyphen"/>pressed, that they both went down, (<hi>viz: Philip</hi> and the <hi>Eunuch</hi>) and that <hi>Philip</hi> there Bap<g ref="char:EOLhyphen"/>tized him as aforesaid; as also when he had so done, they are both said to come up out of the said water again: Which manner of Baptism, is (without all controversie) the true Baptism of Iesus Christ. In obedience whereunto, I have had the honour to take it up amongst the societies of such persons, who make the word of God the onely rule and square of all their actions, which is my hearty desire to imi<g ref="char:EOLhyphen"/>tate, and which I hope the Lord will enable me e<g ref="char:EOLhyphen"/>very day more and more to accomplish. And
+<pb facs="tcp:41584:8"/> thus, Christian Reader, have I given thee a brief account, both what I have been, and what I now am by the grace and mercy of Iesus Christ my Sa<g ref="char:EOLhyphen"/>viour; desiring, that all that readeth this ensuing Treatise, to defer no time to come into the way of Truth, lest they repent when it is too late, or with the five foolish <hi>Virgins,</hi> desire to come in when it is too late: Which, that the Lord in much mercy would prevent, is the earnest desire of</p>
+            <closer>
+               <signed>
+                  <hi>Your beloved Friend in Christ Jesus,</hi> Eliazar <hi>Bar</hi>-Isajah.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:41584:8"/>
+            <head>THE Christians Messiah, Vindicated, <hi>BY</hi> One that was a <hi>Iew</hi> Born. <hi>Considerations upon the Trinity.</hi>
+            </head>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p>
+               <seg rend="decorInit">W</seg>Hich signifies <hi>(Selag)</hi> snow, <hi>(O<g ref="char:EOLhyphen"/>voorach)</hi> hayl, <hi>(Mayim)</hi> that is water, being well understood, it is all but one water.</p>
+            <p>Again, it is to be likened to a mans name: Man is named with three names, the one name is <hi>(Adam,)</hi> that is <hi>man:</hi> The second is <hi>(Ish,) a man:</hi> The third is <hi>(Enoch,)</hi> which is also <hi>a man:</hi> And yet all but one man. Likewise it is likened to the
+<pb n="2" facs="tcp:41584:9"/> earth. The earth hath three names, as for example, <hi>(Adoma)</hi> earth, <hi>(Eretz)</hi> earth, <hi>(Thovet)</hi> is likewise earth; yet is all but one <hi>(Adoma,)</hi> but one earth.</p>
+            <p>Moreover, it is to be understood out of<note n="a" place="margin">Gen. 1.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>That signifies, that the Holy Ghost appeared upon the waters: Now we naming God the Fa<g ref="char:EOLhyphen"/>ther, God the Son, and God the Holy Ghost, albeit they have three Names, yet they are only one God.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note n="b" place="margin">Psal. 33.6.</note>
+            </p>
+            <p>Here is to be unerstood this, that <hi>By the Word or Command of Almighty God, the Heavens and the Earth were Created; and of the Holy Ghost proceeding from the mouth of Almighty God, all things were made.</hi> Now it is evident, that God is a Holy Ghost, and so consequently all but one God.</p>
+            <p>It is likewise manifest that there is a Holy Ghost<note n="c" place="margin">Chap. 27.18.</note>.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>This is to be understood thus, that man hath the Holy Ghost remaining in him: And it is also manifest, that there is a Holy Ghost specified in the Old Testament, in these words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>This is to say, That whosoever will not believe there is a Holy Ghost, that person denyeth the Fa<g ref="char:EOLhyphen"/>ther: For the Holy Ghost is not a God alone of himself, but one God in the Father. So likewise as we name Christ God the Son, that is to be un<g ref="char:EOLhyphen"/>derstood, not God alone of himself, but as the Ho<g ref="char:EOLhyphen"/>ly Ghost one God in the Father.</p>
+            <pb n="3" facs="tcp:41584:9"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note n="d" place="margin">Zach. 14.19.</note>.</p>
+            <p>That is to be understood thus, <hi>In that day</hi> Jeho<g ref="char:EOLhyphen"/>vah <hi>shall be named One alone, and shall have one name:</hi> That is, when the <hi>Messias</hi> (our Saviour shall come again in Glory, for to judge both the quick and the dead.)</p>
+            <p>Or thus, <hi>At that time there shall be accomplished the Verse of</hi> Zachariah, <hi>that</hi> God shall be called by one Name.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>This is the signification thereof: <hi>In this world there are many Idolaters, many believe in the Stars, others in the Moon, and some in the Sun: But when our Saviour shall come in his glory, then they shall leave their Idols, and believe onely in one God, and call upon one God; and at that time there shall be fulfilled</hi> That is, <hi>One God, and one:</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Name.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>The meaning is, <hi>Wherefore did he begin to write the Bible with that word</hi> (Barishes,) <hi>and wherefore not with the word</hi> (Rishes:) <hi>that word</hi> (Rishes) <hi>is also a beginning, which is all one and the same thing.</hi>
+            </p>
+            <pb n="4" facs="tcp:41584:10"/>
+            <p>But I believe this is the Reason why he be<g ref="char:EOLhyphen"/>gins with <hi>(Barishes,)</hi> for the <hi>B</hi> signifies <hi>(Bar)</hi> a Son, or <hi>(Ben)</hi> a Son. Or it may be understood in a<g ref="char:EOLhyphen"/>nother sense, for the word <hi>(Berishes)</hi> signifies, <hi>Be<g ref="char:EOLhyphen"/>fore he had created the Heaven and the Earth, then he had determined to send his Son upon Earth, who is called the</hi> Messias: <hi>Otherwise the said word</hi> (Beri<g ref="char:EOLhyphen"/>shes) <hi>may be taken in another sense.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>For <hi>Berishes</hi> signifies <hi>In the beginning,</hi> that is, before the Heaven and Earth was made, the Son of God was: So it is without question, that there is both God the Father and God the Son.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>This is to be understood thus, [Wherefore hath he written thus, that the Holy Ghost appear<g ref="char:EOLhyphen"/>ed upon the Waters? For that was not needful to be manifested that there was a Holy Ghost upon the Waters, but onely to declare unto his people (in his Holy Word) that there are three Names, the Father, the Son, and the Holy Ghost, but all is one God.]</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note n="f" place="margin">Gen. 2.</note>.</p>
+            <p>This signifies, <hi>Let us make man according to our Image.</hi> For that word <hi>(Naisa)</hi> is the Plural number, (signifying) more than one, that is to be under<g ref="char:EOLhyphen"/>stood, the onely Name, that is, the Father, who speaks to that one Name, which is called Son: <hi>Let us make man.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:41584:10"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>This is to be understood thus: [that God the Father had spoken to his Son in this manner: See<g ref="char:EOLhyphen"/>ing he knew that he should afterwards be born of a young Virgin in the flesh, like unto a creature, said therefore, <hi>Let us make man according to our Image.</hi>] And it is easie to be understood, that God spake not to any creature, for there was no creature then Created: As also with no Angels, as I shall more plainly make appear: In that respect he could not speak to any one else, than onely to his Son.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>This is to be understod in another sense, accor<g ref="char:EOLhyphen"/>ding to the Council of <hi>(Nice,)</hi> [So God spake to his Son] <hi>Or</hi> [Let us make man of <hi>Fire</hi> and <hi>Water</hi> like unto us, <hi>Or</hi> according to our Image.]</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>This is to be understood thus: The Son our Saviour answered his Father on this wise:</hi> [It is apparent unto you, that there is no man upon the earth but sinns, and for his sins he must die; (for with <hi>Fire</hi> and <hi>Water</hi> there is no such death) therefore he said, <hi>Let us make man of the Earth:</hi> For the earth is like<g ref="char:EOLhyphen"/>ned to death, in regard every one treads upon it. And moreover it is manifest, that he should be bu<g ref="char:EOLhyphen"/>ryed, and remain three days in the earth: So it is ap<g ref="char:EOLhyphen"/>parent
+<pb n="7" facs="tcp:41584:11"/> that there are three persons. To wit, God the Father, God the Son, and God the Holy Ghost; which is but one God.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note n="g" place="margin">Zach. 9.9.</note>
+            </p>
+            <p>And that signifieth also, <hi>Your King will come to you in Righteousnesse,</hi> as before is manifested, and was so called being our Saviour. For he is God, and our Righteousnesse; yet all but one God. For this Verse cannot be spoken of any other King. For, it is written thus, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> That signifieth, <hi>There is no man</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>upon the earth that can do good and not sinne.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note n="h" place="margin">Ecles. 7.22.</note>
+            </p>
+            <p>That is to be understood, <hi>That</hi> Moses <hi>who was the Father of the Prophets, and wiser than any of the Wise; yet neverthelesse he had offended and sinned.</hi> And that Verse in <hi>Zachariah,</hi> it is to be understood, <hi>That such a King of Righteousnesse should come, that should not sinne,</hi> Which King, was our God and Saviour.</p>
+            <p>And yet againe that word <hi>(Vernosa)</hi> is as much to say, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>That it hath assisted his people without any other help.</hi> And there can be no Creature that can doe any thing without help or assistance, Therefore it was our Saviour who assisted and ayd<g ref="char:EOLhyphen"/>ed his people without any other help. Onely the Father, the Sonne our Saviour, and the Holy Ghost, who was, and are, joyntly one Command,
+<pb n="6" facs="tcp:41584:11"/> and one help, and so onely one God, as is before written.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Which is to be understood thus, <hi>Daniel</hi> saith, <hi>I have seen in a Vision by night, in a dream, and be<g ref="char:EOLhyphen"/>hold one like the Sonne of man came with the Clouds of Heaven.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Which is to say, <hi>That man came to the Throne of God.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>That signifies, <hi>The Angels brought him to Gods Throne.</hi> Now it is to be understood, that our Sa<g ref="char:EOLhyphen"/>viour came in the likenesse of a man. Which is in summe, <hi>Christ our Saviour came upon the earth in the likenesse of a Creature, and suffered for our sinnes.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>That is understood, <hi>Our Saviour did not die, but caused death it self to die.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>That is, <hi>He ascended corporally into Heaven the third day, where he sits at the Throne of his Father.</hi> And this had <hi>David</hi> spoken off in his Plalme:</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Which is, <hi>My Lord spake unto my Lord, sit upon my right hand.</hi>
+            </p>
+            <p>And moreover it standeth in <hi>Daniel</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Which is to say, <hi>His Kingdome shall be everlast<g ref="char:EOLhyphen"/>ing,</hi> which is impossible to the Creature.</p>
+            <pb n="8" facs="tcp:41584:12"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note n="i" place="margin">Isai. 11.1.</note>
+            </p>
+            <p>That is to be understood, <hi>A Scepter shall go out, and a stranger shall come from the progeny of</hi> Jess.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Which is, <hi>Proceeding from his stock:</hi> And that word <hi>(Nestor)</hi> is, <hi>a great man.</hi> And farther there stands, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>That signifies, <hi>The Holy Ghost, and the Spirit of the Wise, and of Understanding, a Spirit of Coun<g ref="char:EOLhyphen"/>sel and Strength, the Spirit to know the fear of God.</hi> Now by all this is to be understood, that the <hi>Messiah</hi> is not like to another man. For by man it is not possible all good should be. For, there is no man upon earth but sinnes, according as it stands in <hi>Jeremiah, That no man on earth shall vanut him<g ref="char:EOLhyphen"/>self of his strength who lives to die, and to morrow is dead:</hi> And by this Verse it is to be understood, <hi>that all things remaine to eternity.</hi> For, there stands,
+<q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.<note n="k" place="margin">Isai. 11.</note>
+               </q>
+            </p>
+            <p>That is, <hi>The Law remaines to him for ever.</hi> And as the <hi>Jewes</hi> do understand, that our Saviour died, it is true, <hi>his humanity,</hi> but not his <hi>divinity.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>That is, <hi>That he shall rise againe the third day with honour, to remaine with his Father in Heaven, at his right hand,</hi> as <hi>David</hi> saith in his Psalmes.</p>
+            <p>And if you would demand these words <hi>(Jeras Jehovah) the fear of God,</hi> (speaknig of his humani<g ref="char:EOLhyphen"/>ty, is the fear of God;) We must understand it thus. <hi>He learnt his people the fear of the Lord.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note n="l" place="margin">Isai. 11.14.</note>
+            </p>
+            <p>That is to be understood, <hi>He will iudge his poor
+<pb n="9" facs="tcp:41584:12"/> people with Righteousnesse, and he will iustly punish them: He shall not expect any help from Angels, who could not iudge</hi> Israel <hi>alone.</hi> But the same is to be understood of <hi>our Saviour,</hi> and not of the <hi>Creature.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note n="m" place="margin">Isai. 7.</note>
+            </p>
+            <p>That is, <hi>The Jehovah himself, who will be a signe himself.</hi> For, he it is that was born of the Virgin, as more aptly appeares: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> That signifies, <hi>And to his Majesty</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>and tranquility there is no end.</hi> And who is he that hath no end <hi>but God?</hi> And now it is manifest, that the <hi>Messiah</hi> is <hi>God,</hi> and his <hi>Sonne,</hi> and yet all but one God.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note n="n" place="margin">Isai. 53.</note>
+            </p>
+            <p>Which signifieth, <hi>There is no Prophet, and no wise man, who shall do those wonders which he hath done;</hi> And who hath heard that ever any <hi>Creature</hi> had the power to do the same things <hi>which Christ hath done?</hi>
+            </p>
+            <p>Now it is to be understood that he is not onely <hi>Man,</hi> but <hi>the Sonne of God.</hi> For these workes are not like the workes of the Creature.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note n="o" place="margin">Raschhascana <hi>cap.</hi> 1. f. 186.</note>
+            </p>
+            <p>Rabi <hi>Isaac</hi> said to Rabi <hi>Cahana,</hi> [I desire and request, that you should sacrifice to the God of Heaven, and pray unto the everlasting King and his Son.]</p>
+            <p>Wherein the Rabi plainly acknowledges, <hi>that God had a Sonne.</hi> Upon which words, the Rabi <hi>Cahana</hi> answered: <hi>We will pray to the everlasting King and his Sonne.</hi>
+            </p>
+            <pb n="10" facs="tcp:41584:13"/>
+            <p>Now it is manifest in their <hi>Talmouth,</hi> that <hi>God had a Sonne.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>This is to be understood thus:</hi> The Jewes object that if Christ were a God, <hi>Wherefore is he come in the Womb of a Virgin who was defiled?</hi> And they bring an example, that when <hi>Mary</hi> his Mother had offered up two Doves after he was born, then she was unclean; as also all other women after their Children were born, must bring two Doves and offer them up, to signifie that they are unclean; so that she must likewise be unclean as the rest. But I have found in their Books, after the Nativity of our Saviour, <hi>She was as pure as she was before:</hi> And when she had brought the two Doves to be offered up, she did it (not for that she was defiled, but) that she would not break or violate the Law of <hi>Moses;</hi> for if the other <hi>Jewish</hi> women had seen that she had brought no Offering, then they also would not have performed the same; insomuch that there would have come a Breach in the Law of <hi>Moses:</hi> and in this respect she offered up two Doves: So that the Virgin knew well that our Saviour came to fulfil the Law of <hi>Moses.</hi>
+            </p>
+            <p>And when the Jewes shall demand, <hi>Wherefore is he born if he was God? Wherefore is he not come as a God from Heaven upon Earth without being born?</hi> I understand it thus: That he would fulfil the Law and the Command of being Circumcised the eighth day.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <pb n="11" facs="tcp:41584:13"/>
+            <p>This is to be understood thus, That on the eighth day Christ should be Circumcised, and in that re<g ref="char:EOLhyphen"/>spect he came as a man in the flesh: And that he having been thirty years here upon the earth, be<g ref="char:EOLhyphen"/>fore he had acknowledged he was the <hi>Messiah,</hi> he did it to the end that he would fulfil the Law and the Command of <hi>Moses:</hi> And when he had fulfil<g ref="char:EOLhyphen"/>ed the Law and the Command, then he did begin to demonstrate to the world, that he was the true <hi>Messiah</hi> and <hi>Jehovah,</hi> who had done such Miracles, that no Prophet, nor Wiseman ever did the like, and thereby manifested, that those who should be<g ref="char:EOLhyphen"/>lieve in him, should be freed from their sins: And so it is written,<note n="o" place="margin">Isa. 53.</note> that he would free his people from their sins, and he would give them a new Law.<note n="p" place="margin">Jer. 31.</note>
+            </p>
+            <p>And he will Circumcise them with a new Cir<g ref="char:EOLhyphen"/>cumcision, for God said, <hi>I will make a new Cove<g ref="char:EOLhyphen"/>nant with thee: Not such a Covenant as I have made with thy Fore-fathers;</hi> that is, to Circumcise every Male in eight dayes: But that Covenant was ano<g ref="char:EOLhyphen"/>ther Covenant, which signifies <hi>Baptizing,</hi> accord<g ref="char:EOLhyphen"/>ing as Christ himself was Baptized, and that Co<g ref="char:EOLhyphen"/>venant shall be all one, as well for the Men as the Women: For the former was onely for the Men, and therefore we may perceive that all the Wo<g ref="char:EOLhyphen"/>men would not keep the Law of <hi>Moses,</hi> they ha<g ref="char:EOLhyphen"/>ving not received the Covenant.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>This signifies, [I will give you a new heart, and a new Spirit; and my Spirit I will give be<g ref="char:EOLhyphen"/>tween you, and I will make that you shall keep and observe my Law and my Covenant.]</p>
+            <pb n="12" facs="tcp:41584:14"/>
+            <p>And that is fulfilled, God sending his Holy Spirit in a Person, who signified the Virgin <hi>Mary,</hi> and to learn his people a new Law, and a new Co<g ref="char:EOLhyphen"/>venant: But it was not performed until the Law of <hi>Moses</hi> was fulfilled; for the Law of <hi>Moses</hi> was given at a time, according as I shall make appear unto you, as I have found it in the <hi>Talmud;</hi> which is called <hi>Messigea Avoda Sora.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>This signifieth, [The Law of <hi>Moses</hi> was not commanded for longer time than 2000 years,] and in this manner it was written: Rabi <hi>Eliochu</hi> said, that the World should stand 6000 years; that is, 2000 years the World was a dark Wilderness, and then there was no Law.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>This signifyeth, [That after the other 2000 years, the <hi>Messiah</hi> should be killed, and after the third 2000 years, it should be a dark Wilderness. Now it is to be understood, that at this time we are not under the command of the Law of <hi>Moses;</hi> and if we have no command to keep the Law, then we have no salary for the same: And once again it stands thus written.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>That signifieth, <hi>[Think upon the Law of my Ser<g ref="char:EOLhyphen"/>vant</hi> Moses.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>This signifieth, [It is not said keep the Law, but it is said, think on the Law] and this was after the 2000 years.</p>
+            <p>
+               <hi>Object.</hi> Now my loving <hi>Jews,</hi> you demand
+<pb n="13" facs="tcp:41584:14"/> why the New Testament was given unto us?</p>
+            <p>
+               <hi>Answ.</hi> As well as the Almighty God had the power to give <hi>Moses</hi> other Tables of Stone when he had broken the former; so he had also the power to send his Son upon earth to give us a new Law, and to make a new Covenant, as the Prophet said, and that was the New Testament; then how is it there stands<note n="q" place="margin">Exod. 21.6.</note>.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Which signifieth, [A Law made to your gene<g ref="char:EOLhyphen"/>rations for ever:] So that your Law would be fallen, as before is specified.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>This signifieth, [There stands written <hi>(Oulum,)</hi> that is <hi>for ever,</hi> but there doth not stand <hi>(Oulum voed)</hi> that is <hi>for ever and ever:</hi> For we find in your Books, that until the end of 50 years, is signified <hi>for ever,</hi> and that is this word <hi>(Oulum,)</hi> as we find here stands.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Which signifieth, [they have served <hi>(La Ou<g ref="char:EOLhyphen"/>lum,)</hi> that is <hi>for ever;</hi> until <hi>Iubile,</hi> that is 50 years: But where it stands <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>This signifieth, <hi>for ever and ever;</hi> that is such a word as signifieth <hi>without end:</hi> And that <hi>(Almi O<g ref="char:EOLhyphen"/>lumin,)</hi> is that which our Saviour said, <hi>Heaven and Earth shall pass away, but my word shall stand for ever;</hi> that is, the new Law. And moreover, we are not commanded to hold the full Law of <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> at this time, for it is written,
+<q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </p>
+            <p>This signifieth, [At that time when the Tem<g ref="char:EOLhyphen"/>ple
+<pb n="14" facs="tcp:41584:15"/> was.] And likewise there stands again<note n="r" place="margin">Exod. 12.25.</note>,
+<q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </p>
+            <p>This signifieth, [When you shall come into your Country:] Now it is to be understood, that the Law was to be observed when they should come into their Country: For what they hold at present, is nothing but their Rabinish Fables; as we find when <hi>Israel</hi> was 40 years in the Wilder<g ref="char:EOLhyphen"/>ness, they did not observe the Commands, during all that time they kept their <hi>Easter</hi> or <hi>Passeover</hi> but once; and that was the greatest Command<g ref="char:EOLhyphen"/>ment, in regard they were delivered out of <hi>Aegypt</hi> at that time.</p>
+            <div type="part">
+               <pb n="15" facs="tcp:41584:15"/>
+               <head>Arguments and Proofes taken out of the Old <hi>TESTAMENT.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>His I have understood and ob<g ref="char:EOLhyphen"/>served in the Old Testament, and also learned, that there is <hi>one God and three Persons;</hi> God the Father, God the Sonne, and God the Holy Ghost. The Sonne is Jesus of <hi>Naza<g ref="char:EOLhyphen"/>reth</hi> (and no other) who was conceived of the Holy Ghost, and born of the Virgin <hi>Mary,</hi> according as it was fore-spoken by the Prophet <hi>Isaiah,</hi> in manner as hereafter is speci<g ref="char:EOLhyphen"/>fied.</p>
+               <p>In the beginning of the Old Testament, which is called <hi>Genesis,</hi> that is (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) I will make it appear that there standeth (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) Which signi<g ref="char:EOLhyphen"/>eth, <hi>Father, Sonne and Holy Ghost.</hi> And according as the Prophets likewise doe manifest concerning the Trinity, I shall hereafter demonstrate. And what the Prophets have said and given in writing, it hath not been of themselves, no otherwise than that which God the Father, and God the Sonne
+<pb n="16" facs="tcp:41584:16"/> hath been pleased to reveale unto them, speaking to them by the mouth of his Prophets, and that through the inspiration of the Holy Ghost.</p>
+               <p>Wherefore beloved Christians, I will here noti<g ref="char:EOLhyphen"/>fie unto you one thing out of the New Testament, and then I am determined to continue upon the Old.</p>
+               <p>The holy Apostle writeth, and also giveth Testi<g ref="char:EOLhyphen"/>mony, that the Sonne of God, <hi>Jesus Christ,</hi> hath shewed many wonderful and great Miracles; <hi>But, they would not believe in him.</hi> But beloved Christi<g ref="char:EOLhyphen"/>ans, it is not a thing much to be admired at, in re<g ref="char:EOLhyphen"/>gard that they were a stiff-necked and gain-saying generation, according as the Prophet sets them forth. For they would not believe in God the Father, although that he had done many miracles and wonders for them, both in <hi>Egypt,</hi> and in the Wildernesse, having brought them out with a strong and mighty arme from the servile bondage of <hi>Egypt</hi> unto <hi>Canaan,</hi> the land of Promise; as may be seen in<note n="s" place="margin">Exod. 16.3.</note>
+                  <q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>That is, <hi>It had been better for us to have died in</hi> Egypt, <hi>when we sate by the flesh-pots: and now thou hast brought us into the Wildernesse where we have no bread.</hi>
+               </p>
+               <p>Now beloved Christians, you may very well perceive, that herein they would not believe God the Sonne, seeing they would not believe God the Father.</p>
+               <p>I will also set down here the first verse of the Old Testament, whereby I shall make it appear, that there are three persons.</p>
+               <pb n="17" facs="tcp:41584:16"/>
+               <p>In the beginning there stands <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.<note n="t" place="margin">Gen. 1.1.</note> That is to say, <hi>In the beginning was crea<g ref="char:EOLhyphen"/>ted hy the persons Heaven and Earth.</hi>
+               </p>
+               <p>Now my beloved Jewes, I think that herein you can give me no answer. For if the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> should be <hi>but one person,</hi> then there must stand, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is as much to say <hi>one person.</hi>
+               </p>
+               <p>For the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. That signifies, <hi>Plurali<g ref="char:EOLhyphen"/>ty, or more than one</hi> as you do hold, that some words signifies more than one thing, as I shall shew you more at large; in the second verse of the said Chapter there standeth thus <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The which is as much to say, <hi>And the spirit of God,</hi> that is as much as to say, <hi>more than one person moved upon the face of the waters.</hi>
+               </p>
+               <p>Now my beloved Christians, and also yee my unwilling Jewes; here you have palpably mani<g ref="char:EOLhyphen"/>fest that <hi>there are three persons in one God.</hi> Where<g ref="char:EOLhyphen"/>fore O my Jewes will ye still remain blind in un<g ref="char:EOLhyphen"/>beliefe? Ye were accustomed to teach in your fabulous <hi>Talmouth,</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.) That is to say, <hi>One word for every letter,</hi> and every letter signifieth a word, or a whole word for such a letter. Let me therefore ask you, wherefore are you blind here in the beginning, where God revealeth him<g ref="char:EOLhyphen"/>self unto you by his servant <hi>Moses,</hi> did he not say as afore?</p>
+               <p>Now I shall tell you, that you are absolutely blind and will not understand. I will therefore shew you that out of the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. These three persons to be comprehended out of the first letter, which is (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <hi>A Sonne,</hi> or, (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <hi>A Sonne.</hi> Afterward there is the lettter (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that
+<pb n="18" facs="tcp:41584:17"/> is (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) giving us to understand, <hi>the Holy Ghost.</hi> The last letter is (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <hi>the Father.</hi>
+               </p>
+               <p>Therefore give eare my Jewes, and ye shall learn for your good, lay aside your <hi>Rabinish Doctrine,</hi> but ye will not: For could you but find such a word against the Christian Religion, ye would beat your heads against the wall, and with your wicked Spi<g ref="char:EOLhyphen"/>rit in your <hi>Rabinish Doctrine</hi> you would explaine that word ten manner of wayes. But alas, herein you are extream blind.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.<note n="u" place="margin">Gen. 18.1.</note>
+               </p>
+               <p>That siginfieh, <hi>Jehovah, which was apparent to our Father</hi> Abraham. And in the next verse fol<g ref="char:EOLhyphen"/>lowing in the said Chapter, you shall find it thus written.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>Which signifieth thus, <hi>And</hi> Abraham <hi>lifted up his eyes, and he saw three men standing by him.</hi>
+               </p>
+               <p>Moreover in the third verse of this Chapter there followeth thus,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>That signifieth, <hi>And</hi> Abraham <hi>said, my Lord,</hi> as if he had spake to one.</p>
+               <p>Now it is to be understood, that there is onely one God and three persons. For in the first place there stands <hi>Jehovah,</hi> that is, <hi>God alone.</hi> After<g ref="char:EOLhyphen"/>wards <hi>Abraham</hi> had againe seen, as if it were three men, according as Rabi <hi>Salomon Jarcha</hi> writeth in his Annotations upon the same words. Now it is manifest that it is God and Man. Likewise it is evi<g ref="char:EOLhyphen"/>dent that <hi>Jehovah,</hi> is in three persons; as it stands in the third verse.</p>
+               <pb n="19" facs="tcp:41584:17"/>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>Which signifieth, <hi>Abraham said, my Lord.</hi> Now out of this there is plainly to be understood, that <hi>there are three persons, and onely one God.</hi> For <hi>Jeho<g ref="char:EOLhyphen"/>vah</hi>) had appeared before unto <hi>Abraham</hi> in one person; and afterwards he manifested himself in three persons.</p>
+               <p>And again <hi>Abraham</hi> calleth him, <hi>my Lord,</hi> as one God, to shew, that there be three Persons and one God. And as the Jews do say those three, which appeared to <hi>Abraham,</hi> were Angels. Why there<g ref="char:EOLhyphen"/>fore did <hi>Abraham</hi> call them <hi>(Jehovah)</hi> For they call the Angell <hi>(Malochim)</hi> that is Angells, and <hi>(Maloch)</hi> that is one Angell? since that word <hi>(Jehovah)</hi> is otherwaies not to be understood than the Trinity, which is one God and no more.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.<note n="x" place="margin">Isai. 66.9.</note>
+               </p>
+               <p>That signifieth, <hi>God saith, shall I bring to the birth, and not cause to bring forth, saith the Lord? Shall I cause to bring forth, and shut the womb saith thy God.</hi> So saith God, is it possible I should be unfruitful, and not cause to bring forth, seeing I give power to all creatures to be born; Where<g ref="char:EOLhyphen"/>fore then should not I my self bring forth?</p>
+               <p>Where note, the Prophet doth manifestly make it appear, that God hath a Sonne borne, who is no other than our Saviour.</p>
+               <p>Beloved Christians, here we can manifestly see the three persons united in one: and in the six and twentieth verse of the same Chapter you shall find it thus written,
+<pb n="20" facs="tcp:41584:18"/>
+                  <q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>That is thus Englished, <hi>Let us make man in our Image after our Likeness.</hi> And therefore question<g ref="char:EOLhyphen"/>lesse there is spoken of more than one Person; A Trinity and no other than God the Father, Sonne, and Holy Ghost. And in<note n="y" place="margin">Gen. 3.13.</note>
+                  <q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>Which is as much to say, <hi>I will put enmity be<g ref="char:EOLhyphen"/>tween thee and the woman, and between thy seed and her seed, he shall bruise thy head, and thou shalt bruise her heel.</hi>
+               </p>
+               <p>Hearken now my Jewes, what doth this signifie? Do we find in any place or book, that a Serpent could speak but onely this. But alas my <hi>Jewes,</hi> that is not really a Serpent that caused our mother <hi>Eve</hi> to sinne, and from whom we received our Origi<g ref="char:EOLhyphen"/>nall sinne. But Corruption it self, the Devil, that Evill one, whose head our Saviour Christ hath bruised: He who was the true seed of the Woman, hath prevailed against him; His bloud hath given satisfaction for our sinnes. For he is that promised seed specified in holy writ, <hi>John</hi> 3.14.<note n="*" place="margin">John, 3.14.</note>
+               </p>
+               <p>He is that true Brazen Serpent, and that which <hi>Moses</hi> erected in the Wildernesse, was onely a Type of Christ <hi>Numb.</hi> 21.9.<note n="*" place="margin">Numb. 21.9.</note> That if any one had been bitten, beholding the Brazen Serpent he lived.</p>
+               <p>Now, Is not this that true Figure, that reall and effectuall Brazen Serpent, <hi>viz.</hi> Iesus Christ our Saviour, who hath restored man from death to life, those, I mean, that behold him with the eye of a believing heart? But whosoever believeth not is
+<pb n="21" facs="tcp:41584:18"/> already dead, the Believers are saved and freed from Original sin, those I say are saved; so saith the Prophet <hi>Isaiah</hi> in these words<note n="z" place="margin">Isa. 7.14.</note>,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>This is as much as to say, <hi>Therefore the Lord himself shall give you a sign, and behold a Virgin shall conceive and bear a Son, and shall call his Name</hi> E<g ref="char:EOLhyphen"/>MANUEL: Which being interpreted, is as much as to say, <hi>God with us.</hi>
+               </p>
+               <p>Now my wilful and blind <hi>Jewes,</hi> I conceive you will answer me thus, that the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> signifies <hi>A young woman:</hi> And there stands in<note n="a" place="margin">Gen. 24.43.</note>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: Therefore the word signifieth <hi>A Virgin.</hi> And in <hi>Isaiah</hi> that word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> signifieth also <hi>A Virgin:</hi> Otherwise, What miracle had it been for a young Woman to have born a Son? Surely none at all.</p>
+               <p>Also in the Gospel you shall find<note n="b" place="margin">Matth. 1.18. Luke 1.23. Gal. 2.11.</note> they men<g ref="char:EOLhyphen"/>tion no other to be the Son of God, than onely our Saviour Jesus Christ.</p>
+               <p>Likewise you shall find in<note n="c" place="margin">Hos. 11.1.</note> where it is thus said,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>That is, <hi>Out of Aegypt I called my Son.</hi> And the Prophet <hi>Michah</hi> saith,<note n="d" place="margin">Mich. 5.22.</note>
+                  <q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>That is to be understood thus, <hi>And his going forth hath been of old, yea, from everlasting.</hi>
+               </p>
+               <p>Now it is evidently here to be seen, that God hath a sonne, who is Christ the Saviour. And in the Prophet <hi>Isaiah</hi>
+                  <note n="e" place="margin">Isa. 33.15.</note> it stands thus, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="22" facs="tcp:41584:19"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>That is as much as to say, [in those days, and at that time, will I cause the Branch of righteous<g ref="char:EOLhyphen"/>ness to grow up unto <hi>David,</hi> and he shall execute judgment and righteousness in the Land; this is the name wherewith he shall be called, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>The Lord of Righteousness,</hi>]</p>
+               <p>Well then my <hi>Jews,</hi> where do you find any that proceedeth from the House of <hi>David</hi> that was thus called, but onely Christ? Ye know well, O <hi>Jewes,</hi> that no humane person can appropriate the Name of <hi>Jehovah,</hi> but only God: So Jesus Christ (proceeding from the house of <hi>David</hi>) who was the second Person of the Trinity; this name there<g ref="char:EOLhyphen"/>fore did belong unto him, and this was the onely meaning of the Prophet, and therefore he styled himself <hi>Jehovah.</hi> Yea, my blind and ignorant <hi>Jewes,</hi> ye will neither see nor apprehend what the Scriptures testifies for your good.</p>
+               <p>Moreover, in the Book of the Prophet <hi>Samuel</hi> there stands written thus<note n="f" place="margin">2 Sam. 7.16.</note>:
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>That is, <hi>And thy house, and thy Kingdome shall be established for ever before thee, and thy Throne shall de established for ever.</hi> And in the said Chapter, <hi>verse</hi> 12. it is thus written,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </q>
+               </p>
+               <p>Which is as much as to say, <hi>And I will set up thy Seed after thee, which shall proceed out of thy Bowels, and I will establish his Kingdom.</hi>
+               </p>
+               <pb n="23" facs="tcp:41584:19"/>
+               <p>Again, in the 14 <hi>verse</hi> of the same Chapter it is thus written,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>Being Englished is, <hi>I will be his Father, and he shall be my Son:</hi> Questionless therefore God hath a Son, and that he shall proceed from the House of <hi>David;</hi> Therefore this is no otherwise to be under<g ref="char:EOLhyphen"/>stood, than onely Jesus Christ; who (according to his Humane Narure) was of the true Line and Genealogie of <hi>David.</hi>
+               </p>
+               <p>The Gospel likewise gives testimony of the same, as you may find in<note n="g" place="margin">Matth. 1. Luke 3.</note>.</p>
+               <p>And also in the Old Testament a man may evi<g ref="char:EOLhyphen"/>dently see, that it is our Lord and Saviour Iesus Christ the true <hi>Messiah;</hi> who said and revealed to his Disciples, that the Father had given unto him the everlasting Kingdom.</p>
+               <p>Likewise in <hi>Isaiah</hi> you have it thus written<note n="h" place="margin">Isa. 42.</note>,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>Which is, <hi>Behold my Servant, whom I do uphold, mine Elect, in whom my soul delighteth: I have put my Spirit upon him, and he shall bring forth judge<g ref="char:EOLhyphen"/>ment to the Gentiles.</hi>
+               </p>
+               <p>Herein is manifestly clear, that there is question<g ref="char:EOLhyphen"/>less more than one Person; to wit, God the Father, and God the Holy Ghost: So likewise it is to be understood, that Iesus Christ the <hi>Messiah</hi> is com<g ref="char:EOLhyphen"/>prehended in the same <hi>verse:</hi> For no other than our Saviour had brought the Kingdome to the Gen<g ref="char:EOLhyphen"/>tiles. Insomuch that it is evidently seen, there are three Persons, or a Trinity.</p>
+               <p>What answer now, my loving <hi>Jewes</hi> can you
+<pb n="24" facs="tcp:41584:20"/> make unto this? I shall therefore (to satisfie you the more fully) bring you a sufficient proof there<g ref="char:EOLhyphen"/>of out of the Old Testament, to shew you evident<g ref="char:EOLhyphen"/>ly the humanity of Christ, as you shall finde it in the Prophet <hi>Michah</hi>
+                  <note n="i" place="margin">Mic. 15.1.</note>.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>Which is,</hi> [But thou <hi>Bethlehem Ephratath,</hi> though thou art but little amongst the thousands of <hi>Judah,</hi> yet out of thee shall he come forth unto me, that is to be Ruler in <hi>Israel,</hi> whose goings forth have been from old, from everlasting.]</p>
+               <p>Now my <hi>Jewes,</hi> shew me in any of your Books or Scriptures, who was born at <hi>Bethlehem,</hi> whose going out hath been from everlasting: For I un<g ref="char:EOLhyphen"/>derstand, and you may perceive there hath been none from everlasting but onely God the Father, God the Son, and God the Holy Ghost, accord<g ref="char:EOLhyphen"/>ing as I have shewed you more at large in other places; that he should be your Ruler, and your King, but you would not acknowledge him; there<g ref="char:EOLhyphen"/>fore he hath given his Monarchy unto the Gen<g ref="char:EOLhyphen"/>tiles, according to the saying of the prophecie of the Prophets.</p>
+               <p>But hear and understand you, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is, [you hard-hearted, what is set down for our salva<g ref="char:EOLhyphen"/>tion] in the true Bible the Old Testament, given by God himself; yet you will neither learn nor un<g ref="char:EOLhyphen"/>derstand what is written in the same: But I say, depart out of your fabulous <hi>Talmud,</hi> your pretend<g ref="char:EOLhyphen"/>ed Spiritual Doctrine of your Rabies, published a<g ref="char:EOLhyphen"/>gainst
+<pb n="25" facs="tcp:41584:20"/> the true Orthodox Doctrine of Christians. (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) That is, <hi>learn and understand that Doctrine, that you may out of your own Letter make a word.</hi> Let me therefore request you, O my Jewes, that you would but read the New Testa<g ref="char:EOLhyphen"/>ment as I have done, and you shall find as I have found,<note n="k" place="margin">Matth. 2.1.</note> To wit, <hi>that</hi> true Messiah Jesus Christ, whom ye call (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) who was born at <hi>Beth<g ref="char:EOLhyphen"/>lehem,</hi> as the story saith: <hi>Now when Jesus was born in</hi> Bethlehem <hi>of</hi> Judea, <hi>in the dayes of</hi> Herod <hi>the King, behold there came</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, <hi>Wise men from the East to</hi> Jerusalem, <hi>saying,</hi>
+                  <q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>Which is to be understood thus, <hi>Where is he that is born</hi> King of the Jewes, <hi>for we have seen his Star in the East, and are come to worship him.</hi>
+                  <note n="l" place="margin">Luke 2.4, 5.</note>
+               </p>
+               <p>Againe it is thus written, <hi>And</hi> Joseph <hi>went up from</hi> Galilee, <hi>out of the City of</hi> Nazareth <hi>unto</hi> Judea, <hi>the City of</hi> David, <hi>which is called</hi> Bethle<g ref="char:EOLhyphen"/>hem, <hi>to pay Tribute with</hi> Mary <hi>his espoused Wife, being great with child.</hi>
+               </p>
+               <p>Now it is certaine that Jesus of <hi>Nazareth</hi> is our Saviour, by what you, <hi>Jewes,</hi> do call him, <hi>Viz.</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.) Which is, <hi>Jesus of</hi> Nazareth <hi>is and ought to be your true and undoubted King,</hi> according to the saying of the Wise men.</p>
+               <p>Also, it is not onely certaine and true, that he was their King, but a God to, as it may be per<g ref="char:EOLhyphen"/>ceived out of the precedent or fore-going words, where it is said [we are come to worship him.] In comparison, as if any person, of what condition soever he be, should come and enquire after any other King, either to speak to him, or to entreate,
+<pb n="26" facs="tcp:41584:21"/> or desire any thing of him, is usuall. But as for that word of <hi>Adoring,</hi> or <hi>Worshipping,</hi> it belongs to none but God onely, that is, <hi>to the Father, Sonne, and Holy Ghost.</hi>
+               </p>
+               <p>Therefore it is most certaine that Jesus Christ is the onely Sonne of God, and it is as sure, and without question, that <hi>he was born of the Virgin at</hi> Bethlehem, <hi>brought up at</hi> Nazareth, <hi>and of the house and lineage of</hi> David. For there standeth written, <hi>that they went forth to be taxed;</hi> for she was already over-shadowed by the Holy Ghost, being great with Child, to the end, that it might be accomplished, according as had been fore-told by the Prophet <hi>Zachariah.</hi>
+               </p>
+               <p>Now my beloved <hi>Jewes,</hi> you may very well un<g ref="char:EOLhyphen"/>derstand, and easily perceive (if you will open your eyes) unstop your eares, and mollifie your hard harts, that this is the true Messiah, and Saviour of the World, and that we need not hope for, or ex<g ref="char:EOLhyphen"/>pect any other Messiah, as you still fancy.</p>
+               <p>It is true, my over-curious <hi>Jewes,</hi> and you can<g ref="char:EOLhyphen"/>not but acknowledge your selves, that in your fa<g ref="char:EOLhyphen"/>bulous <hi>Talmouth</hi> there stands thus written. <hi>That your Messiah shall come riding upon an Asse, and shall be some great Lord, and shall make warre with the Christians,</hi> &amp;c. But in the Old Testament you shall see what is spoken by God himself, by the mouth of his Prophets commanding them thereto speak unto his people as you shall find it witten in<note n="o" place="margin">Zach. 9.9.</note>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <pb n="27" facs="tcp:41584:21"/>
+               <p>Which is, [Rejoyce greatly O Daughter of <hi>Si<g ref="char:EOLhyphen"/>on,</hi> shout O Daughter of <hi>Jerusalem;</hi> behold thy King cometh unto thee, he is just, having salvation, lowly, and riding upon an Ass, a Colt, the Foal of an Ass.]</p>
+               <p>This is now accomplished and come to pass, it being all fulfilled by our Saviour<note n="m" place="margin">Mat. 21.1.2.</note>; Wherein stands written thus, that [When Iesus drew nigh unto <hi>Jerusalem,</hi> and was come unto <hi>Bethphage,</hi> to the Mount of <hi>Olives,</hi> then Iesus sent two of his Disciples, saying unto them, Go into the Village over against you, and straightwayes you shall find an Ass tyed, and a Colt with him, loose them, and bring them unto me.] But all this was done, that it might be fulfilled which was spoken by the Pro<g ref="char:EOLhyphen"/>phets.</p>
+               <p>Now assuredly, my loving <hi>Jewes,</hi> this is that <hi>Messiah,</hi> who hath been long come, whom we call Iesus of <hi>Nazareth</hi> our onely Saviour, and Son of the ever living God.</p>
+               <p>There stands likewise in the Old Testament thus<note n="n" place="margin">Isa. 40.3.</note>
+                  <note n="o" place="margin">Mal. 3.1.</note>,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>[Behold, I will send a Messenger, and he shall prepare the way before me; and the Lord whom ye seek, shall suddenly come to his Temple, even the Messenger of the Covenant: Whom you de<g ref="char:EOLhyphen"/>light in, behold he shall come saith the Lord of Hosts.]</p>
+               <p>And that is likewise fulfilled according as it is written<note n="p" place="margin">Mat. 3.1.</note> [For in those dayes came <hi>Iohn</hi> the Bap<g ref="char:EOLhyphen"/>tist
+<pb n="28" facs="tcp:41584:22"/> preaching in the Wilderness of <hi>Judea,</hi> saying, Repent ye, for the Kingdom of Heaven is at hand. For this is he that was spoken of by the Prophet <hi>Esaias,</hi> saying, [The voyce of one crying in the Wilderness, prepare ye the way of the Lord, make his paths straight.]</p>
+               <p>Now, my loving <hi>Jewes,</hi> this is that true <hi>Elias,</hi> who hath brought us the glad tidings, and not as your fabulous <hi>Talmud</hi> mentioneth, that <hi>Elias</hi> shall come, and shall gather you together, as a Hunter shall gather his Dogs together.</p>
+               <p>Alas, my loving <hi>Jewes,</hi> that will be a great da<g ref="char:EOLhyphen"/>mage unto you to expect, and a folly to wait upon such vain hopes; as more clearly may be seen in this my Treatise, as I my self have been inlightned, and as I have written in like manner to that purpose in this Book<note n="r" place="margin">Isa. 36.3.</note>.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>That is to say, [Strengthen the weak hands, and confirm the feeble knees] which is accomplish<g ref="char:EOLhyphen"/>ed in the Gospel<note n="s" place="margin">Mat. 11.5.</note> [The blind receive their sight, and the lame walk, the Lepers are clensed, and the deaf do hear, the dead are raised up, and the poor have the Gospel preached unto them:] And be as<g ref="char:EOLhyphen"/>sured, that these Miracles were wrought onely by our Saviour Iesus Christ.</p>
+               <p>Therefore, my loving <hi>Jew,</hi> when thou shalt also believe in him, he will then take that blindness from thy eyes, he will mollifie thy hard heart, he will clense thee of thy Spirit of unbelief, redeem thee from thy sins, and inlighten thy understanding, and be a Saviour to thee, as he is to me, and the rest of those that believe in him.</p>
+               <pb n="29" facs="tcp:41584:22"/>
+               <p>Ye shall also perceive what he saith in<note n="*" place="margin">Zac. 11.12.</note>.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>And I said unto them,</hi> [If you think good, give me my price; so they weighed for my price 30 pieces of silver.] The which was also fulfilled, as you may find in<note n="*" place="margin">Mat. 26.14.</note>
+                  <hi>Then one of the Twelve called</hi> Judas Iscariot, <hi>went unto the chief Priests, and said unto them, What will ye give me, and I will deliver him unto you? And they Covenanted with him for</hi> 30 <hi>pieces of silver.</hi>
+               </p>
+               <p>This (O my loving <hi>Jews</hi>) Zachariah did not speak in relation to himself, but by the inspiration of the Holy Ghost.</p>
+               <p>Likewise (my loving <hi>Jews</hi>) you know very well that this was not fulfilled by <hi>Zachariah,</hi> nor by a<g ref="char:EOLhyphen"/>ny other, but onely by our Saviour himself; This you shall find in<note n="t" place="margin">Zac. 13.7.</note>.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>This is as much as to say, <hi>And one shall say unto him, What are these wounds in thy hands? Then he shall answer, Those with which I was wounded in the house of my friends.</hi>
+               </p>
+               <p>My loving <hi>Jewes,</hi> none other than our Saviour hath fulfilled all these things, who hath suffered and undergone these things for our sins and imper<g ref="char:EOLhyphen"/>fections, as may be seen in<note n="*" place="margin">Isa. 5.7.</note>, when that they cru<g ref="char:EOLhyphen"/>cified him, and pierced his hands and feet upon the Cross: And that is it which <hi>Zachariah</hi> meaneth, and was fulfilled by our Saviour as the Prophet foretold<note n="u" place="margin">Mat. 27.</note>.</p>
+               <pb n="30" facs="tcp:41584:23"/>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>That is, <hi>I gave my back to the smiters, and my ckeeks to them that plucked off my hair; I hid not my face from shame and spitting:</hi> And this also was not fulfilled by the Prophet <hi>Isaiah,</hi> but it was spoken of by our Saviour, and by him also fulfilled, as you shall find it written in<note n="x" place="margin">Mat. 23.69. Mark 15. Luke 23. Iohn 19. Psalm 22.16.</note> where it is said thus, that [they condemned him to death, they spat upon him, they smote him on the face, and in the Psalms it stands thus,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </q>
+               </p>
+               <p>That is, [Dogs have compassed me about, the Assembly of the wicked have inclosed me, they pierced my hands and my feet, so that I may tell all my bones; they look and stare upon me, they part my Garments amongst them, and cast Lots upon my Vesture, as <hi>Matthew</hi> testifies<note n="y" place="margin">Mat. 27.35.</note> saying, They Crucified him, and parted his Garments, casting lots, that it might be fulfilled which was spoken by the Prophets.]</p>
+               <p>Now, my blind and stupid <hi>Jewes,</hi> was there any that pierced King <hi>Davids</hi> hands, parted or cast lots for his garments? No, there hath not been any one that hath fulfilled these things, but onely our Saviour Iesus Christ, that true Messiah of the house and lineage of <hi>David.</hi>
+               </p>
+               <p>
+                  <note n="z" place="margin">Zac. 12.7.</note>And this was the meaning of the Prophet <hi>Za<g ref="char:EOLhyphen"/>chariah,</hi> where he saith, <hi>I will pour upon the house of</hi> David, <hi>and upon the inhabitants of</hi> Ierusalem, <hi>the
+<pb n="31" facs="tcp:41584:23"/> Spirit of Grace, and of supplication: And they shall look upon him, whom they have pierced, and they shall mourn for him, as one mourneth for his onely Sonne, and shall be in bitternesse for him, as one that is in bitternesse for his first-born.</hi>
+               </p>
+               <p>And in <hi>John</hi> it is said,<note n="a" place="margin">John, 19.31, 34, 35.</note>
+                  <hi>When they came to Jesus, and saw that he was already dead, they brake not his leggs, but one of the Souldiers with a Spear, pierced his side.</hi> For these things were done, that the Scripture might be fulfilled, <hi>A bone of him shall not be broken.</hi>
+                  <note n="b" place="margin">Numb. 9.12 Exod. 12.46. Psal. 34.21. Zac. 12.10.</note>
+               </p>
+               <p>Now, my <hi>Jewes,</hi> this I believe for the truth, and that your forefathers have taken notice hereof, that <hi>he was the true Passeover, otherwayes they would have broken his leggs, according as they were accustomed to do,</hi> for they had him in their power. But the Almighty, God the Father, would not suffer it so to be. That this (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) our off-spring should be broken, or be made an unfitting sacrifice. Neither was this Sacrifice like unto other Sacrifi<g ref="char:EOLhyphen"/>ces: for the Priests in other Sacrifices, were ac<g ref="char:EOLhyphen"/>customed to take part of the flesh, and for to eat the same, and to sprinkle the bloud thereof upon the Altar.</p>
+               <p>But this outward Sacrifice, was not for the nourishment of the soul, for the Redemption of mankind from his sinnes, but for an outward Ceremony, or a Type or Figure of this Reall Sa<g ref="char:EOLhyphen"/>crifice of our Saviour, who had offered himself for us. And that great and high Priest, was that (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, <hi>That true high Priest.</hi> And it was he alone that had taken the flesh to him<g ref="char:EOLhyphen"/>self into his owne Kingdome, the Kingdome of
+<pb n="32" facs="tcp:41584:24"/> Heaven: and hereby hath redeemed us and our children with his dear and pretious bloud: I mean all those that truely believe in him, from the tyran<g ref="char:EOLhyphen"/>ny of their sinnes? renewing his Covenant with us, but summoning you O <hi>Jewes,</hi> before <hi>Pilate,</hi> your own Judge, as you may see in <hi>Matthew,</hi>
+                  <note n="c" place="margin">Matth. 21.25</note> where your fore-Fathers, high Priests, and Elders, cried out, <hi>his bloud be upon us and our children.</hi> The which bloud hath since ensued and fallen both upon them and their children in this manner.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>That is to say, <hi>Four times in one year that bloud falls from Heaven upon you O</hi> Jewes: The which I shall make appear, and at each time evident<g ref="char:EOLhyphen"/>ly manifest.</p>
+               <p>The first time is (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) That is, in <hi>May.</hi>
+               </p>
+               <p>The second time is (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) That is, in <hi>July.</hi>
+               </p>
+               <p>The third time is (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) That is, in <hi>October.</hi>
+               </p>
+               <p>And the fourth time is called (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) That is, in <hi>January.</hi>
+               </p>
+               <p>And when that these times approach or draw near the evening before, (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, <hi>their</hi> high Priests in their Sinagogue with their Custos or Clark do utter or sing forth these words in their order. <hi>(Viz.)</hi>
+               </p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>Which being interpreted, signifieth, <hi>That bloud
+<pb n="33" facs="tcp:41584:24"/> shall fall from heaven upon the beathens (meaning also the Christians.)</hi>
+               </p>
+               <p>At this time and hour, in those quarters and pla<g ref="char:EOLhyphen"/>ces all the <hi>Jewes</hi> must beware of this. Yet never<g ref="char:EOLhyphen"/>thelesse all the <hi>Jewes</hi> in generall are not acquainted herewith, unlesse it be their Rabies and Priests.</p>
+               <p>For they have found a secret or hidden book called of their high Priest (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, <hi>that bloud is of Jesus Christ the Innocent, the which ac<g ref="char:EOLhyphen"/>cording to their demand or desire might so fall upon them and their children.</hi> And that is that bloud which so falls four times every year. Now when they perceive that the time approacheth or grow<g ref="char:EOLhyphen"/>eth near at hand, then do they lay upon all the meat and drink, which is in the house, a piece of Iron: But none of them know to what end they do it, or for what the said Iron should be good, or what be<g ref="char:EOLhyphen"/>nefit or profit doth acrew unto them thereby.</p>
+               <p>Let me therefore entreat you, my <hi>Jewes,</hi> what is the reason that no Christians are acquainted with this falling of the bloud, but that the same is made known unto you or your Rabies onely?</p>
+               <p>I have been in <hi>Russia</hi> with one of my Uncles, who was my Mothers Brother, in the City called <hi>Bochaw,</hi> which belongs to the Chancellour of <hi>Lito<g ref="char:EOLhyphen"/>via:</hi> My uncle being one of the chief or principall Rabies in the said City, and as I my self together with other (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is studients, sate round about the Table for our learning or studies: Be<g ref="char:EOLhyphen"/>hold a drop of bloud, as big as a grain of Lin-seed, fell from above upon the said Table, and it made a hole in the Table, the which became wider and wider, and visibly bigger and bloudier, insomuch
+<pb n="34" facs="tcp:41584:25"/> that the Table was died with bloud: The which my Uncle perceiving, he caused a Christian to break them in pieces, and to throw the same into the fire, leaving not one piece thereof as bigg as a corn of Powder; and being so burnt, he strewed the Ashes thereof into the stream of a swift running River: And all this was done by a Christian, for they are warned much to take heed thereof.</p>
+               <p>They said likewise, that when the said blood falls into any water in the house, or upon any of their meat, or into their drink, they having not been careful to provide Iron beforehand, the same must be thrown away, being not fit for any use: for they say, that if any one eareth thereof, or maketh any use of the same, he would burst to pieces.</p>
+               <p>Beloved Christians, what do you think of this, or what can we suppose this to be, other than the innocent bloud of our Saviour, that true Pascall Lamb, Jesus Christ the Righteous.</p>
+               <p>Now we do not find, either in their Bible, or any other of their books, concerning the falling of any such bloud, unlesse it be in that book, which they have found written by their Priests, but the same being secretly kept, few of the Jewes know of it, beside their Rabies.</p>
+               <p>The Kingly Prophet <hi>David</hi> saith in the Psalme.<note n="l" place="margin">Psal. 68.19.</note>
+               </p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>That is, <hi>Thou hast ascended on high, thou hast led captivity captive, thou hast received gifts from men, yea, from the rebellious also, that the Lord God
+<pb n="35" facs="tcp:41584:25"/> might dwell among them.</hi> Wherefore my loving <hi>Jewes,</hi> I cannot understand, or apprehend this, (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, <hi>this verse to be of any other than of our Saviour.</hi> For there is no other (as the Kingly Prophet speakes) that hath in the like man<g ref="char:EOLhyphen"/>ner ascended up into heaven, but our Saviour one<g ref="char:EOLhyphen"/>ly, and it is he who hath delivered us from con<g ref="char:EOLhyphen"/>demnation, and the captivity of our sinnes: and these good workes are the gifts which he hath given us. And thus these three words are to be under<g ref="char:EOLhyphen"/>stood.</p>
+               <p>The first is, (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, <hi>to Rest.</hi>
+               </p>
+               <p>The second is (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, <hi>the name of God.</hi>
+               </p>
+               <p>The third is, (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) and this word sig<g ref="char:EOLhyphen"/>nifies, <hi>more than one person.</hi>
+               </p>
+               <p>Now, my good <hi>Jewes,</hi> I will clearly manifest this Verse unto you, to the end that every <hi>Jew</hi> might understand, that no other than Christ ascen<g ref="char:EOLhyphen"/>ded into heaven, and he is named, (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, <hi>the half of Jehovah.</hi> And (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, <hi>with the Father, and the Holy Ghost.</hi> For the word signifies more than one person. This verse plainly mani<g ref="char:EOLhyphen"/>festing, the Father, the Sonne, and the holy Ghost.</p>
+               <p>And this you shall also find in the Psalme of <hi>David,</hi>
+                  <note n="e" place="margin">Psal. 110.1.</note>
+                  <q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>Which is to be understood thus, <hi>And the Lord said unto my Lord, sit thou at my right hand.</hi>
+               </p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>That is, <hi>Untill I shall make thine enemies thy foot-stool.</hi>
+               </p>
+               <p>Beloved <hi>Jewes,</hi> as long as I was in your blind<g ref="char:EOLhyphen"/>nesse
+<pb n="36" facs="tcp:41584:26"/> and unbeliefe, I could not apprehend, who it was that King <hi>David</hi> meant in this Verse. But now being become a Christian, and understanding the true fundamentall grounds of Christian Religion; I do clearly find, that the Psalmist doth mean, <hi>our Saviour Christ, the true Messiah,</hi> who hath opened the eyes of my understanding, and hath made the same evident and apparent unto me, and unto eve<g ref="char:EOLhyphen"/>ry Christian Believer: As more clearely may be seen in <hi>Matthew,</hi>
+                  <note n="f" place="margin">Matth. 22.42. and 3.4.</note> where you shall find it thus written.</p>
+               <p>
+                  <hi>And Jesus asked of the People saying, what think ye of Christ, whose sonne is he? They said unto him, the sonne of</hi> David. <hi>And he said unto them, How then doth</hi> David <hi>in spirit call him Lord? saying, the Lord said unto my Lord, sit thou on my right hand, till I make thine enemies thy foot-stool.</hi>
+               </p>
+               <p>Now, my loving <hi>Jewes,</hi> he cannot be properly <hi>Davids own Son,</hi> neither hath it ever been the custom that the Father should call the Sonne Lord.</p>
+               <p>Wherefore it is manifestly evident, that Christ is of the house of <hi>David,</hi> and yet is the Sonne of God.</p>
+               <p>And this is the meaning of the Prophet <hi>David,</hi> by the word <hi>Jehovah,</hi> which is, <hi>God:</hi> And this word is taken in many places of the Scripture for the name of God. Therefore <hi>David</hi> spake right well, <hi>the Lord said unto my Lord.</hi> Thereby giving to understand, that the Father is God, that is, <hi>Je<g ref="char:EOLhyphen"/>hovah.</hi> And the Sonne is also God, that is, <hi>Adonai.</hi>
+               </p>
+               <p>So that there is no difference, they being both one and the fame.</p>
+               <pb n="37" facs="tcp:41584:26"/>
+               <p>Wherefore, my beloved <hi>Iewes,</hi> how many pla<g ref="char:EOLhyphen"/>ces in the holy Scripture have I now manifested unto you, which is a sufficient testimony to assure you, that this is the true Messiah, Jesus of <hi>Nazareth,</hi> whom ye rejected, he is the Sonne of the ever-living God, and born of (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is <hi>the Virgin Mary.</hi>
+               </p>
+               <p>But alas, you are become so stiff-necked and wil<g ref="char:EOLhyphen"/>full, (your hearts being stopt) that you apprehend not this word <hi>Haalma,</hi> to signifie <hi>a Virgin.</hi>
+               </p>
+               <p>Likewise, my beloved <hi>Iewes,</hi> you may esteem of our mother <hi>Rebecca,</hi> to have been no honest Virgin; For the word <hi>Haalma,</hi> is specified there with the same letters, as it is written by the Mother of our Lord.</p>
+               <p>So it doth likewise stand by that of <hi>Rebecca,</hi> as you shall find it in <hi>Genesis,</hi>
+                  <note n="g" place="margin">Gen. 24.4.</note>
+                  <q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>That is to say, <hi>The Virgin which shall come forth,</hi> as may be seen more at large in the aforesaid Chapter.</p>
+               <p>Againe, my <hi>Iewes,</hi> I know that ye are able to understand, and capable enough to perceive, but the stubbornnesse, and hardnesse of your hearts, will not suffer you to apprehend these things.</p>
+               <p>Moreover turn to the <hi>Proverbs,</hi>
+                  <note n="h" place="margin">Prov. 30.4.</note> and you shall find it thus written,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>Which is, <hi>Who hath ascended up into heaven, or came down from thence, who hath gathered the Winds in his hands, who hath bound up the Waters as a
+<pb n="38" facs="tcp:41584:27"/> garment, and who hath established all the ends of the earth, what is his name, what is his sonnes name, if thou canst tell.</hi>
+               </p>
+               <p>Now, my loving <hi>Iewes,</hi> No man hath done these things but God Almighty alone, and he it is who hath a sonne, according as King <hi>Salomon</hi> saith, not of himself, but through the divine inspiration of the Holy Ghost.</p>
+               <p>And so you may clearly see, that there are three persons. To wit, God the Father, God the Sonne, and God the Holy Ghost. As you shall find it written in the fift book of <hi>Moses,</hi> called <hi>Deutero<g ref="char:EOLhyphen"/>nomie.</hi>
+                  <note n="i" place="margin">Deut. 18.16.</note>
+               </p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>That is to say, <hi>I will raise them up a Prophet from amongst the Brethren, like unto the</hi> Jehovah Ele<g ref="char:EOLhyphen"/>hecha. That is, <hi>God his God.</hi> And, <hi>I will put my words in his mouth, and he shall speak unto them all that which I shall command him, and it shall come to passe, that whosoever will not hearken unto my words, which he shall speak in my name, I will require it of him.</hi>
+               </p>
+               <p>Again my loving <hi>Jewes,</hi> What answer are you able to make me upon this Verse in the Old Testa<g ref="char:EOLhyphen"/>ment? for there is no other Prophet come unto you, (that shall be called <hi>Jehovah Elahecho</hi>) whom you shall obey, than onely Christ; he is that true Prophet and God, whom I have manifested unto you in divers places, but you would not hear<g ref="char:EOLhyphen"/>ken unto him.</p>
+               <p>But I suppose my <hi>Jewes,</hi> that you will say this <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is, you will give me this answer which
+<pb n="39" facs="tcp:41584:27"/>
+                  <hi>Moses</hi> said, [that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> his Disciple or Scholar shall arise, who shall be as good as hee; and they should be obedient unto him.]</p>
+               <p>I shall tell you, my <hi>Jewes,</hi> this cannot be so, for thus it stands in your <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is, your Prayer-book, wherein there stands, <hi>There shall not arise the like Prophet as Moses was.</hi>
+               </p>
+               <p>Wherefore, my loving <hi>Jewes,</hi> it cannot otherwise be said or understood of any other, than of Christ onely, who is the Son of God, who is one and the same like unto his Father.</p>
+               <p>Wherefore let me exhort you to have a care of your own good, and to consider with your selves in what blind and besotted ignorance you still go astray, walking in darkness; neither are you able to accuse me with any error in writing unto you, for what I have written, I can sufficiently make it appear in the Old Testament.</p>
+               <p>Likewise, my beloved Christians, I cannot for<g ref="char:EOLhyphen"/>bear to give you notice at this time, of the many scandalous and opprobrious speeches which they use, in dishonouring and vilifying our Saviour Je<g ref="char:EOLhyphen"/>sus Christ concerning his Birth, <hi>&amp;c.</hi>
+               </p>
+               <p>The Heavens do admire and wonder at this, yea they are astonished; the Potentates of the earth tremble at the blasphemy and revilings of a cast<g ref="char:EOLhyphen"/>away people, as the Prophet <hi>Ieremiah</hi> saith,<note n="k" place="margin">Jer. 2.</note>
+               </p>
+               <p>Whereby you may evidently see, that the Pro<g ref="char:EOLhyphen"/>phet complains, their practise is to dishonour the Name of Christ, insolently casting out reproches against him; they deride and mock him, and do dai<g ref="char:EOLhyphen"/>ly continue in the same.</p>
+               <p>But let me manifest one proof more, and you
+<pb n="40" facs="tcp:41584:28"/> shall find that the Prophet <hi>Isaiah</hi> tells us, that Christ is our Saviour<note n="l" place="margin">Isa. 7.14.</note>.</p>
+               <p>
+                  <hi>And the Lord himself shall give you a sign, Be<g ref="char:EOLhyphen"/>hold a Virgin shall conceive and bear a Son, and shall call his name</hi> Emmanuel, <hi>which being interpreted, is God with us.</hi>
+               </p>
+               <p>This is that true <hi>Messiah</hi> born of the Virgin <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> the Holy Ghost having over-shadowed her; this the <hi>Iewes</hi> will not apprehend, but with a false interpretation, they have their recourse to divers places in Scripture, vainly deluding themselves, and imprinting that into their Children, making them believe, that that is not to be understood of a <hi>Virgin,</hi> but of a young <hi>Woman;</hi> as if it were so mi<g ref="char:EOLhyphen"/>raculous a thing that <hi>A Child should be born of a young Woman;</hi> and they will not have that word <hi>Alma</hi> to be any otherwise understood, than onely for <hi>A young Woman;</hi> not contenting themselves onely with this, but use many other lewd speeches and lies concerning the Birth of our Saviour.</p>
+               <p>I should almost be ashamed to make any menti<g ref="char:EOLhyphen"/>on hereof, but for divers reasons I could not omit to inform you of their false reports and lies given out by these malicious people, to the end that eve<g ref="char:EOLhyphen"/>ry Christian may perceive the stubbornness and crosness of these wilful <hi>Iewes.</hi>
+               </p>
+               <p>They call Christ (who is the Son of God) not only <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> That is to say, <hi>The son of a Whore,</hi> but palpably, as we say, <hi>Bastard.</hi>
+               </p>
+               <p>Again, they nominate him <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> That is, a <hi>Two-fold Bastard,</hi> or <hi>The Son of a Whore</hi> in rela<g ref="char:EOLhyphen"/>tion to his Mother; which expression is held in more disdain amongst them, than the other word,
+<pb n="41" facs="tcp:41584:28"/> which is <hi>Son of a Whore;</hi> these, and the like abo<g ref="char:EOLhyphen"/>minations they did imprint into the imaginations of their Children.</p>
+               <p>But we, who are better acquainted with the Holy Scriptures, do assuredly know and believe, that Christ our Saviour is the Son of the Blessed Vir<g ref="char:EOLhyphen"/>gin <hi>Mary,</hi> and the Son of God.</p>
+               <p>My loving Christians, I will moreover acquaint you with the blind and dark expressions, which they have in their Writings or Scriptures, as thus:</p>
+               <p>It came to pass, that in the time of their Sacred Temple, that an untoward boy, who throwing up his Ball, or playing with the same before the Tem<g ref="char:EOLhyphen"/>ple, it happened that the Ball ran into the Temple, and so under the Table where the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (that is their) 70 <hi>Wise men</hi> or <hi>Doctors</hi> were: This unluckie Boy (as they tearm him) who they give out to have been our Saviour, came into the Tem<g ref="char:EOLhyphen"/>ple, running after his ball <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (that is) bare<g ref="char:EOLhyphen"/>headed, without a Hat; the which these Learned Persons perceiving, were angry, esteeming it for a great sin and misdemeanor; whereupon, one a<g ref="char:EOLhyphen"/>mongst these 70 Learned persons (who was called <hi>Besamah</hi>) said, Behold <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (that is) <hi>What a rude and shameless Boy this is.</hi> Another Rabi (cal<g ref="char:EOLhyphen"/>led <hi>Helel</hi>) said, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (that is Behold <hi>What a son of a Whore this is.</hi> The third likewise said, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>What a Bastard is this son of an unchast woman.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Now the next day it came to pass, that one of the three (before named Rabies) went to Market, with an intention to buy a Pot of Milk of a certain wo<g ref="char:EOLhyphen"/>man, who was called <hi>Mary,</hi> and he bought it of her: Then some of the people said unto this Rabi, Rabi,
+<pb n="42" facs="tcp:41584:29"/> wherefore do you buy of this <hi>Whore?</hi> Whereup<g ref="char:EOLhyphen"/>on the said Rabi asked this woman, if that, which the people said, were true; upon which demand the wo<g ref="char:EOLhyphen"/>man made answer, Rabi it is true; for indeed it happened that my Husband not being at home, I committed an unclean action. There came a Smith unto me, and caused me to commit this vile of<g ref="char:EOLhyphen"/>fence, and by whom I had that son or Boy of his begetting, whom yesterday you called <hi>Bastard,</hi> and <hi>The son of a Whore.</hi>
+               </p>
+               <p>Whereupon the Rabi said, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Prais<g ref="char:EOLhyphen"/>ed be God, which hath put the truth into my mouth.</hi>
+               </p>
+               <p>Is not this therefore an extream lie, most pro<g ref="char:EOLhyphen"/>phane and unspeakable blasphemy? The which, not onely the Evangelists do condemne, as you shall find in<note n="m" place="margin">Luke 7.53. Mat. 1.18.</note> where it is evidently proved to the contrary, considering the strict Law of the <hi>Iewes</hi> against that sin of Adultery; But likewise in the old Testament, according to the Law of <hi>Moses</hi>
+                  <note n="n" place="margin">Levit. 20.10</note>.</p>
+               <p>
+                  <hi>The man that committeth adultery with another mans Wife, the adulterer and the adulteresse shall sure<g ref="char:EOLhyphen"/>ly be put to death.</hi>
+               </p>
+               <p>And againe in <hi>Deuteronomie,</hi>
+                  <note n="o" place="margin">Deut. 22.21</note>
+                  <hi>If a man be found lying with a woman, married to a husband, they shall both of them die, both the man that lay with the wo<g ref="char:EOLhyphen"/>man, and the woman also. So shalt thou put away evill from</hi> Israel.</p>
+               <p>And much to the same purpose you shall find written in <hi>Leviticus, &amp;c.</hi>
+               </p>
+               <p>Well then, my blind <hi>Iewes,</hi> how is it come to pass (or let me know the reason) that these two persons escaped, seeing there were two such severe Lawes
+<pb n="43" facs="tcp:41584:29"/> that did forbid these transgressions, and that they remained unpunished, and that they were suffered to come into the streets, or frequent the Markets; wherefore were they not (according to the Law of <hi>Moses</hi>) stoned to death, as it was the custome a<g ref="char:EOLhyphen"/>mongst the <hi>Jewes</hi> formerly to be done, who were presently ready to stone them to death, in manner as it was with him who had gathered sticks on the Sabbath day, and others also for the like offence; who without remission have been put to death? And without doubt, if your scandalous accusations had been true, the blessed Virgin <hi>Mary</hi> would not have received the least favour or commiseration from them, who were her Enemies, and that in re<g ref="char:EOLhyphen"/>gard of her Son our Saviour Jeius Christ, such an occasion would have given them sufficient oppor<g ref="char:EOLhyphen"/>tunity to have presently stoned her to death, accor<g ref="char:EOLhyphen"/>ding to the Law of <hi>Moses.</hi>
+               </p>
+               <p>Now my <hi>Jews,</hi> why harbour you such inhumane and prophane thoughts? considering that the V. <hi>M.</hi> is the Mother of Jesus her Son, as the Prophet testifies, and as it is written in the Evangelist, <hi>Brought up and lived at Nazareth;</hi> as also at that time was called <hi>Jesus of Nazareth,</hi> even as you your selves do name him <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which is, <hi>Je<g ref="char:EOLhyphen"/>sus of Nazareth.</hi>
+               </p>
+               <p>How is it possible then, my <hi>Jewes,</hi> that you dare presume to say, or at least imagine that our Savi<g ref="char:EOLhyphen"/>our (when he was a Boy) did play up and down with a Ball in <hi>Jerusalem,</hi> in the Land of <hi>Judea;</hi> the one being distant from the other the space of 15 Leagues, which is about 45 English miles, as may be seen and proved by your own Books.</p>
+               <pb n="44" facs="tcp:41584:30"/>
+               <p>How was it possible then, that <hi>Mary</hi> the Mother of Iesus should come from thence to market to sell Milk at <hi>Jerusalem,</hi> just at such a time when it was to be sold? Doubtless that Milk must have grown sour by the way, especially by reason of the great distance that there is from the one place to the other; as also the burthen would have been very ponde<g ref="char:EOLhyphen"/>rous to have been carryed from <hi>Nazareth</hi> to <hi>Ieru<g ref="char:EOLhyphen"/>salem,</hi> the charges likewise unsufferable, and the profit but little.</p>
+               <p>Consider with your selves, O <hi>Jewes,</hi> what pal<g ref="char:EOLhyphen"/>pable errors you run into, and how manifestly you condemn your selves by your abominable lies and untruths; the <hi>Turks</hi> themselves know better, and confess that Christ was born of a Virgin, and so re<g ref="char:EOLhyphen"/>mained in her Virginity: But ye unbelieving <hi>Jews</hi> remain still obstinate, not desiring to condescend to the truth, endeavouring what you can, to disho<g ref="char:EOLhyphen"/>nour the Birth of our Lord Jesus Christ.: For at Christmas, when that our Saviour was born of the Virgin <hi>Mary,</hi> according to the prophecie of the Prophet <hi>Isaiah,</hi> where his birth is at large foretold; And when the Christians do ring the Bells, as it is the custome in <hi>Poland,</hi> remaining in the Church, and publishing the Birth of our Lord Iesus; when these unbelieving <hi>Jewes</hi> do hear the Bells ring, they cry out, and utter these most abominable words:
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>That is to say, <hi>Must that Bastard go through all these Clocks and holy places?</hi>
+               </p>
+               <p>And at that time they make a great deal of noise in the house with their Children and Servants,;
+<pb n="45" facs="tcp:41584:30"/> neither do they take any rest that whole night, but running up and down, out of one Chamber into another, not one alone, but many together.</p>
+               <p>Also (during the whole night) they may not ex<g ref="char:EOLhyphen"/>ercise themselves in their Fabulous <hi>Talmud,</hi> but in Books which their Rabies have made, and which they call: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is, <hi>The story of the hang<g ref="char:EOLhyphen"/>ed.</hi>
+               </p>
+               <p>Beloved Christians, can I tearm this any other<g ref="char:EOLhyphen"/>wise than an abominable Blasphemy? It is a com<g ref="char:EOLhyphen"/>mon practise which these people have, to ban, curse, and revile the name of our blessed Saviour; insomuch that it is no marvel (according to the saying of the Prophet <hi>Jeremiah,</hi> how it is possible to be endu<g ref="char:EOLhyphen"/>red;) yea, that the earth doth not open, and swal<g ref="char:EOLhyphen"/>low them up, as it happened to <hi>Corah, Dathan,</hi> and <hi>Abiram;</hi> who were swallowed up in the Earth, by reason of their Rebellion.</p>
+               <p>Let it therefore be our Prayer, that God would be pleased to open their eyes, that they may be<g ref="char:EOLhyphen"/>lieve in our Saviour, who is that true <hi>Messiah;</hi> whereby they might prevent the like punishment for their abominable Blasphemies against our Sa<g ref="char:EOLhyphen"/>viour, and the blessed Virgin his Mother.</p>
+               <p>I will here likewise declare some few things unto you, (although somewhat against my self) that every good Christian may receive some benefit from these blind and stupid <hi>Jewes,</hi> who love to walk in darkness.</p>
+               <p>It is the custome of the <hi>Iewes,</hi> that when they take upon them to speak of the Virgin <hi>Mary,</hi> the most favourablest Tytle which they give her, is this; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is, <hi>The Mother of a Person
+<pb n="46" facs="tcp:41584:31"/> that was hanged.</hi> Also in another word which is,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>That is, <hi>The name of the hanged shall be abolish<g ref="char:EOLhyphen"/>ed, neither shall it be had any more in remem<g ref="char:EOLunhyphen"/>brance.</hi>
+               </p>
+               <p>Moreover, they call the Virgin <hi>Mary</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, <hi>unclean;</hi> and when it happeneth that there is any Wedding amongst them, and that the Bride gives her self out for a Maid, (it having been per<g ref="char:EOLhyphen"/>ceived that she had committed some unchast action before, then they use these tearms.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>That is, <hi>She is a Virgin, like unto the Mother of the hanged,</hi> meaning thereby the Virgin <hi>Mary:</hi> These are the abominable lies, and false Accusations, and Blasphemies of the <hi>Iewes.</hi>
+               </p>
+               <p>Ye unbelieving <hi>Iewes,</hi> you may charge our Sa<g ref="char:EOLhyphen"/>viour and his Mother with what false Accusation you will, or that your unclean spirits shall move you; but I will clearly manifest unto you, and prove out of your own Scriptures, that your Ac<g ref="char:EOLhyphen"/>cusations are false.</p>
+               <p>It was an antient custome amongst the <hi>Iewes</hi> before the destruction of the Temple of <hi>Ierusalem,</hi> they had there (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is <hi>a Book,</hi> wherein their Priests or Rabies did write, and therein was specified the number of their Rabies; and as soon as any of their Priests or Rabies deceased, they pre<g ref="char:EOLhyphen"/>sently established another in his place, and that they write also into their Book, together with the names, both of his Father and Mother, as likewise the day when he was taken in and established; this was so kept in the Temple, that no man durst presume
+<pb n="47" facs="tcp:41584:31"/> to carry the said Book out of the Temple.</p>
+               <p>Now it happened that when our Saviour Christ came into the land of <hi>Judea,</hi> he then began to teach and preach the word of God: but before he be<g ref="char:EOLhyphen"/>gan publickly to teach or preach the word of God, it came to passe that at the same time one of the said Rabies died, and at that time also they found none that came to possesse the place of the deceased Rabi or Priest, unlesse it were <hi>one Jesus the sonne of</hi> Joseph <hi>a Carpenter, as they stile him,</hi> who was then nominated.</p>
+               <p>Now he was a person who was very young, but in his Life, Learning, and Conversation he excel<g ref="char:EOLhyphen"/>led all, and the most voices were for him. And when the whole Councell and Assembly of Ra<g ref="char:EOLhyphen"/>bies or Divines had given their consent, his Mother (in regard that <hi>Ioseph</hi> her husband was deceased) was called in before the Councell of these Rabies, calling them by their names. To wit, <hi>Jesus</hi> and <hi>Mary,</hi> to the end that they should be writ<g ref="char:EOLhyphen"/>ten in the book of the Priests.</p>
+               <p>And when the same was read before them, both of her, and her Sonne <hi>Jesus Christ</hi> our Saviour, they then began to enquire very narrowly of her, concerning his Father. Whereupon she gave them this answer.</p>
+               <p>That it was true, that she was the Mother of Jesus (the which the women must also acknow<g ref="char:EOLhyphen"/>ledge, who were present at the birth of the Sonne) saying likewise that he had no Father in the World, as I can give you sufficient testimony upon good grounds of the truth thereof.</p>
+               <p>For living in the Country of <hi>Galilee,</hi> and have<g ref="char:EOLhyphen"/>ing
+<pb n="48" facs="tcp:41584:32"/> preserved my Virginity with all Integrity, it happened that, (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) which is, <hi>an Angel from God,</hi> came and appeared unto me in my house at that time when I was earnest at my prayers, who told me, <hi>that I should have a Sonne, and that I should conceive the same by the Holy Ghost, and his name should be called Iesus.</hi>
+               </p>
+               <p>And upon sight of this Angel, I found that I was with Child, and I brought forth this Sonne without any paine or grief: And before and since that time, I was, and still have continued a Vir<g ref="char:EOLhyphen"/>gin.</p>
+               <p>Now after that the Priests or Rabies, had heard what was said, they sent for a very wise and under<g ref="char:EOLhyphen"/>standing woman, and charged her very highly, that she should narrowly enquire after the truth hereof, and whether this <hi>Mary</hi> was still a pure Virgin. And thereupon the women, who had been present at the birth of Christ, came presently to the Priests or Rabies, and witnessed that she bare Christ in her pure Virginity.</p>
+               <p>Hereupon the Priests commanded, that the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary</hi> should come before them againe, and then they charged her, that she freely acknowledge and manifest unto them, who it was that was the Father of Jesus, to the end that they might write their names, and the name of their sonne <hi>Jesus</hi> in the said Book, and that they might love him.</p>
+               <p>To which the Virgin <hi>Mary</hi> firmely made an<g ref="char:EOLhyphen"/>swer, saying,</p>
+               <p>
+                  <hi>Verily I have conceived without the help of any Father in the World, but onely by the power of the Holy Ghost, foretold and affirmed unto me by the Angel.</hi>
+               </p>
+               <pb n="49" facs="tcp:41584:32"/>
+               <p>
+                  <hi>Therefore he is not any mans sonne else but mine, and the Sonne of God.</hi>
+               </p>
+               <p>Now when the Priests or Rabies, had heard and understood these words, they presently wrote the same, together which these words in the said Book.</p>
+               <p>
+                  <hi>(Viz.)</hi>
+               </p>
+               <p>That on that day there departed out of this life a Priest, one of their Society: and in his place, with the joynt consent of the whole Congregati<g ref="char:EOLhyphen"/>on, we have taken in, and received, for a Priest, one who is called JESUS. Or,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>That is, <hi>The Sonne of the everliving God, born of the Virgin</hi> Mary.</p>
+               <p>And this book lay hid in <hi>Ierusalem,</hi> being kept up and reserved, by the Rabies or Priests there: But at this present the same is kept or hidden at the City of <hi>Tyris.</hi>
+               </p>
+               <p>This History is apparently known unto all the Rabies and chief of the <hi>Iewes.</hi>
+               </p>
+               <p>Yet neverthelesse they will not open their eyes, but remaine still in their blindnesse, and will not ac<g ref="char:EOLhyphen"/>knowledge nor believe in our Saviour Jesus Christ.</p>
+               <p>Now, my <hi>Jewes,</hi> what can you think of your selves, how can you explain this History, which ye call (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, <hi>the History of the hanged.</hi>
+               </p>
+               <p>Ye may now easily see, that your Doctrine is false, cannot you apprehend what your own Elders and Priests said unto the Virgin <hi>Mary,</hi> and to her Sonne Jesus.</p>
+               <pb n="05" facs="tcp:41584:33"/>
+               <p>But I see you remain still unwilling to embrace any good instructions, for you still mind your false bookes, calling the twelve Apostles, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> That being interpreted well, signifieth, <hi>the twelve Apostates,</hi> in regard that they were baptized: For ye call all those that are baptized, (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, <hi>Apostate.</hi>
+               </p>
+               <p>But the common Proverb is, that the Cuckow sings alwayes but one song, to wit his own name.</p>
+            </div>
+            <div type="part">
+               <pb n="51" facs="tcp:41584:33"/>
+               <head>A farther Explanation of the Godhead of CHRIST, upon this Text of Scripture.</head>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>EZEK.</hi> Cap. <hi>44.</hi> Ʋers. <hi>1, 2, 3.</hi>
+                     </bibl>
+                     <p>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</p>
+                     <p>And he brought me againe to the door of the uttermost Sanctuary, towards the morning, but it was shut. And the Lord spake unto me thus: This door shall remaine shut up, and shall not be opened, and no man shall enter through the same, but onely the Lord <hi>Jehovah,</hi> who is the God of <hi>Israel,</hi> he shall go through the same, and so it shall remain shut. He shall go in through the door, and shall return through the same againe.</p>
+                  </q>
+               </epigraph>
+               <p>IN which Text is clear and evidently manifested the bearing of the Holy Virgin, wherein God speakes to <hi>Ezekiel</hi> concerning the closed door: of the uttermost Temple, by which the undefilednesse of the chaste Virgin, and the un<g ref="char:EOLhyphen"/>spotted life is sufficiently evident and apparent, who was the exterior Temple of the Majesty of All<g ref="char:EOLhyphen"/>mighty God, as likewise of the body of Christ,
+<pb n="52" facs="tcp:41584:34"/> and the inward Temple of the Almighty, who was the sonne of God, who according to his huma<g ref="char:EOLhyphen"/>nity took up his abode in this unspotted Virgin.</p>
+               <p>And it is especially and apparently set down, that this Gate of the exterior Temple, the which shall so Remaine shut up, and shall not be opened, was the lock of that Virgins Virginity, which lock should not be opened, although that Christ our Saviour, according to his humanity, had been born of the said Virgin <hi>Mary.</hi>
+               </p>
+               <p>And this Text doth farther demonstrate. <hi>And no man shall go for to open this lock or gate.</hi> That signifieth, she shall be and remain a Virgin without spot or blemish. For the God of <hi>Israel</hi> onely shall passe and repasse through this gate, and never<g ref="char:EOLhyphen"/>thelesse the gate shall remaine shut. That is as much as to say, she is and was a Virgin, as well before, as after the birth of our Saviour.</p>
+               <p>In the expression of which Godhead, there is absolutely meant the Trinity. To wit, <hi>the Father, the Sonne, and the Holy Ghost.</hi> Now as the Father sent the holy Ghost into the Virgin <hi>Mary,</hi> so the blessed Virgin did conceive our Saviour, called Jesus the Son of God, who was called the God of Israel, as more amply is set down in the former ex<g ref="char:EOLhyphen"/>pressions, to be but one onely and intire Godhead.</p>
+            </div>
+            <div type="part">
+               <pb n="53" facs="tcp:41584:34"/>
+               <head>CONCERNING THE CHURCHES Of The CHRISTIANS.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Christians publicke Congregations are said to be Gods Houses or Churches, but these wic<g ref="char:EOLhyphen"/>ked people nominates or stiles them <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is to say, <hi>an unclean or an unworthy House.</hi>
+               </p>
+               <p>Also in the book <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the ninth Chapter. When that a <hi>Iew</hi> passed by a ruinated Christian Church, he must say thus, (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, <hi>Praised be God, who hath ruinated or destroyed the the house of strange services, or Idolatries.</hi>
+               </p>
+               <pb n="54" facs="tcp:41584:35"/>
+               <p>Thus they falsly and abominably curse the Worship of the Christians: calling those Songs which are sung in the Churches, (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is to say, <hi>The songs of the hanged, or condemned person.</hi>
+               </p>
+               <p>And they likewise call the book of the New Testament, and other books thus, (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) That is to say, <hi>unworthy books.</hi> The <hi>Greeks</hi> and <hi>Romane</hi> languages they call (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, <hi>beast-like or unclean speeches.</hi> And when they see a Christi<g ref="char:EOLhyphen"/>ans child carried to be sprinkled, they say thus, (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) that is, <hi>behold they carry a bastard into an unclean place.</hi>
+               </p>
+               <p>Finally whatsoever is used or accusto<g ref="char:EOLhyphen"/>med to be done in the Christian Church, they doe presently open their unworthy mouthes, breathing out such abominable expressions, as these are to the dishonour of the Christians.</p>
+               <p>Now, my loving Christians, happily by these smooth words of the <hi>Iewes,</hi> you may suppose that they speak nothing but Honey, but alas you do not perceive the Venome which lies hid amongst it: And it is really no otherwise than what I have declared unto you.</p>
+            </div>
+            <div type="part">
+               <pb n="55" facs="tcp:41584:35"/>
+               <head>Concerning Government of Christi<g ref="char:EOLhyphen"/>ans: Of their Princes and Po<g ref="char:EOLhyphen"/>tentates.</head>
+               <p>AS for the King, they pray three times in a day for him in their Synagogues in this manner:
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>That is, <hi>And the strange Kingdoms</hi> (those are the Christians) <hi>thou shalt suddenly destroy.</hi>
+               </p>
+               <p>And in the same Prayer they use these tearms:
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </q>
+               </p>
+               <p>That is, <hi>And all the Priests</hi> (or Ministers) <hi>shall suddenly be destroyed out of the World.</hi> Like<g ref="char:EOLhyphen"/>wise they call those Magistrates of the Christians, who dare not do as they would have them: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is, <hi>Wick<g ref="char:EOLhyphen"/>ed persons:</hi> And cursing them, they say thus, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is, <hi>Wicked Persons shall be rewarded.</hi>
+               </p>
+               <pb n="56" facs="tcp:41584:36"/>
+               <p>Likewise they say thus, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>Tat is, <hi>What a wicked and unjust Magi<g ref="char:EOLhyphen"/>strate is this.</hi>
+               </p>
+               <p>And when it comes to pass that a God<g ref="char:EOLhyphen"/>ly and just Magistrate doth govern, and one that is an Enemy to them; and that he hath the rule and command over them, and that he happeneth to die suddenly; then they make or ordain a Fast, the which they call <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is to say, <hi>A day of delive<g ref="char:EOLhyphen"/>rance;</hi> celebrating the same with great joy, feasting and drinking; then those dayes are welcome to them.</p>
+               <p>But when they have any Magistrate, who commands them, that is meek, cour<g ref="char:EOLhyphen"/>teous, and gentle, and that doth shew them favours, then they can say or speak of him thus,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>That is, <hi>What a good Magistrate is this, he willingly and voluntarily receives our gifts, his name shall be had in remembrance:</hi> Even as our Rabins, who said thus,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>
+                  <hi>That is the difference between the Godly and Righteous Magistrates, and the blind Iewes.</hi>
+               </p>
+               <pb n="57" facs="tcp:41584:36"/>
+               <p>My beloved Christians, what a great pride is this, that they should esteem them<g ref="char:EOLhyphen"/>selves better than the greatest sorts of Ru<g ref="char:EOLhyphen"/>lers or Magistrates that are set over the Christians; and by that word <hi>Lahafdil,</hi> they mean this, a Jew and a Christian being compared together, whether the same be either King, Prince, Potentate, or others, they Curse, Bann, and revile them, using these words:
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>That is, <hi>The Plague or Pestilence light upon them, who are</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>upright and just.</hi>
+               </p>
+               <p>And sometimes they call them <hi>Haman,</hi> meaning thereby, As <hi>Haman</hi> was not good to the Jewes, so was this Potentate also; and therefore it shall be with him, as it was with <hi>Haman.</hi>
+               </p>
+               <p>Wherefore, my loving Christians, are not these words both shameful and abo<g ref="char:EOLhyphen"/>minable, wherewith they most unworthi<g ref="char:EOLhyphen"/>ly and falsly do vilifie the Christians, Ban<g ref="char:EOLhyphen"/>ning and Cursing all the Christians and their blessed Redeemer; but in especial manner those Jewes, who are become Christians, and have received the Sacra<g ref="char:EOLhyphen"/>ment
+<pb n="58" facs="tcp:41584:37"/> of Baptism, which they call sprink<g ref="char:EOLhyphen"/>ling, these are no way exempted; and they call us <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. That is, <hi>Those that have departed from their belief, shall have no hope of Salvation.</hi> They call them <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is <hi>Apostates,</hi> or those that have forsaken the true Faith. This in brief, I have at pre<g ref="char:EOLhyphen"/>sent thought good to publish to the view of the world, for the defence of the Chri<g ref="char:EOLhyphen"/>stian Religion.</p>
+               <p>Finally, Gentle Reader, and beloved Christian: I would have related unto you an innumerable company of other things of those wicked <hi>Iews,</hi> which for brevities sake, I let slip; I could have given you large information of their comportments, and have warned you of their manifold misde<g ref="char:EOLhyphen"/>meanors towards the Christians; but by the perswasion and intreaty of some espe<g ref="char:EOLhyphen"/>cial friends, I have omitted to do the same; I have already published the first part hereof in Print for the benefit of all good Christians; and when I shall find that you have received satisfaction thereby, I shall hereafter endeavor to give you a more am<g ref="char:EOLhyphen"/>ple relation of things of greater concern<g ref="char:EOLhyphen"/>ment
+<pb n="59" facs="tcp:41584:37"/> in a more larger Volume; wherefore let me desire you to accept of this for the first proffer of my true affections to the Christian Religion, and therewith recom<g ref="char:EOLhyphen"/>mend you to the protection of the Al<g ref="char:EOLhyphen"/>mighty, who is able to give a blessing to this, and to erect the same in the hearts of all true Believers; hoping that he will go forward in the augmentation thereof with his Holy Spirit; for it is he alone, that hath taken away the scale from my eyes, open<g ref="char:EOLhyphen"/>ing my heart, and giving me a believing Spirit, whereby I may behold his mercy, and be obedient to his holy will; he is that onely God that enlargeth our hearts, yea, it is God alone doth guide and govern our affections, to the end we should value his goodness more than Gold or Silver, that we may be constant in his service; to that end, he of his Infinite Goodness hath brought us to the <hi>Fountain of living Waters,</hi> yea, to those Wells, which we digged not; therefore we ought not to cast earth into them, as the <hi>Phylistines;</hi> neither preferre those broken wells, as the Iews have done: I suppose you have sufficiently perceived
+<pb n="62" facs="tcp:41584:38"/> their manifest errors in this my Treatise; and whilst we remain in the true light, let us not run wilfully into darkness; but let us remember that saying of <hi>Austin,</hi> Those that tempt and despise Gods will inviting them, shall be sure to feel Gods wrath ta<g ref="char:EOLhyphen"/>king vengeance on them.</p>
+               <p>I will not burthen your patience too much, beloved Christians, with my long discourse, but shall herewith conclude; in<g ref="char:EOLhyphen"/>treating you, that if you find any thing herein, which you did not formerly know, that you would be pleased to judge charitably thereof, and to interpret for the best; imbracing what may be beneficial to you, and give God the glory. But in case there are not such varieties as may happily be expected, yet let the same be acceptable to you, seeing it is done according to the small abilities of the Christian Author; concluding with S. <hi>Peter</hi> Chap. 4. <hi>v.</hi> 10. <hi>This doe</hi> and thou wilt ingage him, who is</p>
+               <closer>
+                  <signed>Thy regenerated Brother, and Servant in Christ, <hi>ELEAZAR</hi> Bar <hi>ISAJAH.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="61" facs="tcp:41584:38"/>
+            <head>TO My former Brethren THE JEVVES. <hi>Pcirachoves.</hi> CHAP. 2.</head>
+            <opener>
+               <salute>Loving Jewes,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">R</seg>Abi <hi>Jouse</hi> the Priest, and Rabi <hi>Joctenen,</hi> the son of <hi>Sachiah,</hi> went the one with the other, and said: They heard a voice from heaven, which said, Rise up, rise; the great Palace is also made ready for you, and there is a Lordly Throne therein erected: Then you, and your Disciples, and your Disciples disciples are ready to sit down before the holy Tri<g ref="char:EOLhyphen"/>nity, in which place both these Rabines give us
+<pb n="62" facs="tcp:41584:39"/> gracious writings, wherein they acknowledge the Holy Trinity according to the Holy Bible.</p>
+            <p>And you, O Iewes, calling our Saviour <hi>Jesus,</hi> you call him right; but you conster the word in <hi>Ro<g ref="char:EOLhyphen"/>stives,</hi> that is, to take a word out of every letter; and your Rabines do unfold it thus: The first word, that is the (<hi>Jud</hi> signifieth <hi>Jomach,</hi> and the other letter is <hi>(Shin;)</hi> that signifieth <hi>She<g ref="char:EOLhyphen"/>mou,</hi> and the third letter is <hi>(Vauf)</hi> that signi<g ref="char:EOLhyphen"/>fieth <hi>Viceckrau,</hi> that signifieth together, <hi>Put out his Name and his remembrance.</hi>
+            </p>
+            <p>To this foolish and blind conceit, the Rabines have instructed me; but I have found the ground of this word <hi>Jesus,</hi> and according to my understand<g ref="char:EOLhyphen"/>ing, that name <hi>Jesus</hi> is the true Name of God the Father, and God the Son. The first letter <hi>Jud</hi> signifieth <hi>JEHOVAH,</hi> and so our Sai<g ref="char:EOLhyphen"/>our is called <hi>Jehovah the Righteous:</hi> And the other letter is <hi>Shin,</hi> signifying <hi>Shadai,</hi> that is <hi>ALMIGHTY,</hi> that is, God the Father said to <hi>Moses, Shadai, Shemei,</hi> My Name is <hi>Sha<g ref="char:EOLhyphen"/>dai:</hi> And the third letter is the <hi>Vauf,</hi> signifying <hi>Vacced,</hi> which is, <hi>For ever and ever:</hi> And if you would demand concerning the <hi>Holy Ghost,</hi> I have told you divers times in my Book that he is a <hi>Holy SPIRIT:</hi> Or in another signification
+<pb n="63" facs="tcp:41584:39"/> the letter, <hi>Vauf,</hi> signifieth, <hi>Verruah,</hi> that is, <hi>the holy Spirit.</hi> Now it is manifest, that that word which you call <hi>Seshu,</hi> is both Father, Sonne, and Holy Ghost, which is all but one God.</p>
+            <p>I <hi>Eleazar Bar-Isajah,</hi> do request almighty God on your behalf, as having formerly been my Brethren, that he would be pleased to be mercifull unto you, and give you his peace together with his holy Spirit, to the end, that he would be pleased to open your eyes, and to take off the darknesse from your eyes, that you may perceive, and acknowledge the great darknesse and obscurity wherein you are at this present time. Such is my hearty prayer un<g ref="char:EOLhyphen"/>to Almighty God, that he would be pleased to guide you by Iesus Christ his strength, and by the power of the Holy Ghost.</p>
+            <p>Loving Brothers, you know very well, that these are the last times of the <hi>6000</hi> yeares which the world should stand, according as here-above is written, according to the rules of Rabi <hi>Aliehu,</hi> in the <hi>Talmud,</hi> in manner as is signified by the Chapters formerly mentioned in my book.</p>
+            <p>Ye know well, that you do believe more in your <hi>Talmud</hi> than in the ten <hi>Commandements</hi> themselves, and the other Word of God, and also of all the Prophets. And your fabulous <hi>Talmud</hi>
+               <pb facs="tcp:41584:40"/> is sweeter in your mouthes than honey: and through the same misunderstanding, many are led astray out of the right way, into the contrary way leading to darknesse.</p>
+            <p>But I suppose the reason is, because your learned Rabies will not demonstrate unto you the true grounds out of their <hi>Talmud.</hi>
+            </p>
+            <p>And that is the cause, that of a thousand Iewes, one of them is not able to give the true meaning of one leaf of your <hi>Talmud.</hi> But you all believe what your false Prophets, the Rabies, do teach and preach unto you.</p>
+            <p>And through thire false and dubious Doctrine, they bring you astray, by leading you into the wrong way, to the very pit of destruction, and eternall damnation; where is nothing but shame and dis<g ref="char:EOLhyphen"/>grace, without any hope or consolation for ever.</p>
+            <p>Therefore, my former loving Brethren, I do earnestly beseech you, for the love of God, being I am obleiged to instruct you in the way and path of life, that you would with a cordial affection take upon you to read this my small work, in re<g ref="char:EOLhyphen"/>gard that therein is specified out of the old Testa<g ref="char:EOLhyphen"/>ment, and out of your well beloved <hi>Talmouth,</hi> that the Messiah is come, and is the Sonne of Al<g ref="char:EOLhyphen"/>mighty God; according to your Rabinish doctrine,
+<pb facs="tcp:41584:40"/> in manner as I have made it appear, that he is the Sonne, the true Messiah, and our beloved Saviour, and that he was from everlasting, as I have ex<g ref="char:EOLhyphen"/>plained it to the full in this book. And I could not have any rest or quietnesse, untill I had manifested at this time the mercy of God the Father, his Sonne, and the Holy Ghost, who hath brought me out of the darknesse into the light. I would from my heart that likewise the true light from Almighty God would inlighten you, wherewith you all one with the ooher, might be by the help of God brought to the holy Baptism, as well as I am, and so with the other Christians, be brought to his true knowledge and eternall life.</p>
+            <p>And finally, loving Brothren, you must not think in your hearts, that I have done that small work out of any shame or approbry unto you, but to free and relase you, and to instruct you in the way to eternall happinesse, where our fore-Fathers, who believed on Christ, have their everlasting ha<g ref="char:EOLhyphen"/>bitations. For with the aged there is wisedome, and those who have lived long have true understanding, so that in them, the Holy Ghost remaineth, and they have learned all of it through the Holy Ghost. And therefore I will pray to the Almighty God, that he would give us his holy Spirit, who shall con<g ref="char:EOLhyphen"/>duct
+<pb facs="tcp:41584:41"/> us in these holy pathes and wayes, wherein our fore-Fathers have walked, and thereby the co<g ref="char:EOLhyphen"/>verts of your eyes shall be enlightned, and then ye shall see the lightnesse and brightnesse of his good<g ref="char:EOLhyphen"/>nesse with your eyes. And it shall be said unto you, Behold, <hi>that</hi> is the God of our Father, in whom we have trusted: And <hi>this</hi> is our Saviour.</p>
+            <p>And at this time, they shall rejoyce both in Heaven and Earth, and they shall say amongst the heathen, <hi>The Lord hath reigned, the Lord hath been mercifull unto us, and made us worthy; yea, vouchsafed us the light of his glory, with our eyes.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. D.</hi> and are to be sold by <hi>William Sheares,</hi> at the Signe of the Bible in St. <hi>Pauls</hi> Church-Yard. 1653.</p>
+            <trailer>FINIS.</trailer>
+            <trailer>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </trailer>
+            <pb facs="tcp:41584:41"/>
+         </div>
+      </back>
+   </text>
+</TEI>
